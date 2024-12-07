@@ -1,0 +1,829 @@
+name,name_en,type,address,address_en,timetable,timetable_en,phone,mon,tue,wed,thu,fri,sat,sun,open_time,close_time
+Төв салбар,Central Branch,branch,"Сүхбаатар дүүрэг, Энхтайваны өргөн чөлөө, Чингүнжавын гудамж-30
+3 үгт хаяг: /// дугуй.дэвшил.хэлтэй","Chingunjav Street-30, Enkhtaivan Avenue,  Sukhbaatar disctrict
+What3Words: /// rejects.astounded.cobras","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Багануур салбар ,Baganuur Branch,branch,"1-р хороо, Нацагдоржийн гудамж-7/1, ХасБанкны байр 
+3 үгт хаяг: /// гавар.тугны.амруулах","XacBank building, 1st horoo, Natsagdorj Street-7/1, Baganuur district
+What3Words: /// temperance.hyperlinks.inexpensive","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Баянгол салбар ,Bayangol Branch,branch,"Баянгол дүүрэг,13-р хороо, Ард Аюушийн өргөн чөлөөнд байрлах Соло молл худалдааны төв (3,4-р хорооллын автобусны эцсийн буудал)
+3 үгт хаяг: /// манайх.ундарга.угсрагч","1st floor, Solo Mall, 13th horoo, Bayangol district
+What3Words: /// alerting.comedians.urban","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Сонгинохайрхан салбар ,Songinohairhan Branch,branch,"Сонгинохайрхан дүүрэг, 12-р хороо, 1-р хороолол 1-р үйлчилгээний төв /""Саппоро"" худалдааны төвд/
+3 үгт хаяг: /// яргуй.хөрвөөх.хонин","1st floor, Sapporo shopping center, 12th horoo, Songinokhairkhan district
+What3Words: /// princely.hazy.toolbar","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Сүхбаатар салбар,Suhbaatar Branch,branch,"Сүхбаатар дүүрэг, 7-р хороо, Эрхүүгийн гудамж, ""Ориент"" төвийн 1-р давхарт /Хөгжим бүжгийн коллежээс 11-р хороолол уруудах замын дагуу, хуучин гэмтлийн эмнэлэгийн хажууд
+3 үгт хаяг: /// багтсан.ундаа.унших","1st floor Orient center, 11th horoolol, 7 th horoo, Sukhbaatar district
+What3Words: /// resold.truckload.magic","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Нарантуул тооцооны төв,Narantuul Branch,branch,"Баянзүрх дүүрэг, 14-р хороо, Нарантуул ОУХТ, Баялаг Ундраа Худалдааны Төвд
+3 үгт хаяг: ///хөгжилтэй.эрдэмтэд.хүрнэ","Baylag Undraa Shopping Center, Narantuul International Commercial Center, 14th khoroo, Bayanzurkh district
+What3Words: /// sulked.dusters.continues","Даваа-Бямба: 9:00-17:00
+Мягмар, Ням: Амарна","Monday-Saturday: 9:00am-05:00pm
+Tuesday, Sunday: Сlosed",1800-1888,1,0,1,1,1,1,0,09:00:00,17:00:00
+Дорноговь салбар,Dornogovi Branch,branch,"Сайншанд сум, 2-р баг, Хасбанкны байр /Шуудан үйлчилгээний газрын баруун талд, Данзанравжаагийн музейн урд талд/
+3 үгт хаяг: /// зочломтгой.хайлан.олгосон","XacBank building, 2nd bag, Sainshand soum
+What3Words: /// denies.undeniably.overland","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Хэнтий салбар,Hentii Branch,branch,"Чингис хот, 3-р баг, Баатруудын гудамж, С-20-р байр, ХасБанкны байр
+3 үгт хаяг: /// тусгах.ханз.цугларах","XacBank building, Baatar gudamj, 3rd bag, Chinggis hot
+What3Words: /// flies.market.argue","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Дархан салбар ,Darhan Branch,branch,"Дархан сум, 8-р баг, ХасБанкны байр /Микро хороолол/
+3 үгт хаяг: /// ажилд.дагах.дөрөө","XacBank building, 8th bag, Darhan soum
+What3Words: /// canes.mountainous.whimpered","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Шинэ орчин тооцооны төв,Shine orchin Branch,branch,"Дархан сум, 6-р баг, ""Дархан тээвэр"" ХХК-ийн байранд
+3 үгт хаяг: /// нисгэх.сарыг.хүүг"," Building of ""Darkhan teever"" Co.,Ltd, 6th bag, Darkhan soum
+What3Words: /// edicts.constitutions.palettes","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Сэлэнгэ салбар,Selenge Branch,branch," Сүхбаатар сум, 6-р баг, ХасБанкны байр /Гурван Мэргэд захын урд тал, Титаник дэлгүүрын хажуу талд/
+3 үгт хаяг: /// еэвэн.нийлсэн.хоймор","XacBank building, 6th bag, Suhbaatar soum
+What3Words: /// purses.purified.gender","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Өвөрхангай салбар,Uvurhangay Branch,branch,"Арвайхээр сум, 5-р баг, Рэнчинпэлжээгийн гудамж, ХасБанкны байр
+3 үгт хаяг: /// чармайх.бяцхан.нөхсөн","XacBank building, 5th bag, Renchinpeljee Street, Arvaikheer soum
+What3Words: /// printouts.harshest.firework","Даваа - Баасан: 08:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Шинэ Дархан тооцооны төв,Shine Darhan branch,branch," Дархан сум, 15-р баг, Тэди төвийн  байр, 2 давхарт
+3 үгт хаяг: /// унага.айлчин.өхөөрдөм","2nd floor, Tedy center, 15th bag, Darkhan soum
+What3Words: /// shuttling.scars.insulated","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Эрдэнэт салбар,Erdenet Branch,branch,"Баян-Өндөр сум, Эрдэнэт хот, Оюут баг, ХасБанкны байр /Сэлэнгэ зочид буудлын зүүн жигүүрт/
+3 үгт хаяг: /// нэрс.айраг.төлөөлөл","XacBank building, Oyut bag, Erdenet hot, Bayan-Undur soum
+What3Words: /// rinses.reputable.because","Даваа - Баасан: 08:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 08:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Баян-Өндөр тооцооны төв,Bayan-Undur Branch,branch,"Баян-Өндөр сум, Эрдэнэт хот, Эрдэнэт их дэлгүүрийн 1 давхарт
+3 үгт хаяг: /// цутгах.дуурайх.буурь","1st floor of Erdenet departmentt store, Erdenet hot, Bayan-Undur soum
+What3Words: /// armrest.broth.pirate","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Архангай салбар,Arhangai Branch,branch,"Эрдэнэбулган сум, 3-р баг, ХасБанкны байр
+3 үгт хаяг: /// асуухад.найдаж.тохиолдол","XacBank building, 3rd bag, Erdenebulgan soum
+What3Words: /// throttles.unseasoned.aligns","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Завхан салбар,Zavhan Branch,branch,"Улиастай сум, Жинст баг, ХасБанкны байр 
+3 үгт хаяг: /// амтлах.ивэх.явган","XacBank building, Jinst bag, Uliastai soum
+What3Words: /// waddled.papers.comforted","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Хөвсгөл салбар,Huvsgul Branch,branch,"Мөрөн сум, 8-р баг, ХасБанкны байр
+3 үгт хаяг: /// боломжит.зөвлөл.төллөх","XacBank building, 8th bag, Murun soum
+What3Words: /// fools.thrilled.applauded","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Дэлгэрхаан тооцооны төв,Delgerhaan Branch,branch,"Мөрөн сум, 4-р баг, ""Мөрөн"" худалдаа үйлчилгээний төвийн байранд
+3 үгт хаяг: /// цэнгээн.олгов.өгчээ","Murun market place, 4th bag, Murun soum,
+What3Words: /// librarian.importers.ramps","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Өмнөговь салбар ,Umnugovi Branch,branch,"Даланзадгад сум, 3-р баг, ХасБанкны байр /""Монголийн Цахилгаан Холбоо"" ХК-ийн байрны баруун талд/
+3 үгт хаяг: /// хүүг.улам.аягаар","XacBank building, 3rd bag, Dalanzadgad soum
+What3Words: /// telephoning.unemployment.lumpiness","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Дундговь салбар,Dundgovi Branch,branch,"Мандалговь сум, 7-р баг, Буяннэмэхийн гудамж-18, ХасБанкны байр /Аймгийн Музейн урд, хойшоо харсан/
+3 үгт хаяг: /// бичвэл.таах.хуваав","XacBank building, Buyannemeh street-18, 7th bag, Mandalgobi soum
+What3Words: /// tournaments.expertly.pillbox","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Говь-Алтай салбар,Govi-Altai branch,branch,"Есөнбулаг сум, Харзат баг, Төв гудамж, Хасбанкны байр /Цагдаагийн хэлтэсийн баруун урд, төв замын урд хэсэгт/
+3 үгт хаяг: /// мялаав.нийтлэн.үүрлэн","XacBank building, Harzat bag, Central street, Esonbulag soum
+What3Words: /// gaping.numbness.correlation","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Баянхонгор салбар,Bayankhongor Branch,branch,"Баянхонгор аймаг, Баянхонгор сум, 1-р баг, Номгон Лувсанданзанжанцан өргөн чөлөө, 4 гудамж, 436 байр, 1 давхарт
+ 3 үгт хаяг: /// хурааж.гоёмсог.ухаантай","1st floor of Building 436, 4th street, Nomgon Lubsandanzanjantsan avenue, 1st bag, Bayankhongor soum
+ What3Words: /// corroding.frighten.redwoods","Даваа - Баасан: 08:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Ханжаргалант тооцооны төв,Hanjargalant Branch,branch,"Улиастай сум, Богдын гол баг, ""Сэргээгдэх"" төв, 1-р давхарт
+3 үгт хаяг: /// эмхэтгэл.мэдэрч.ажигч","1st floor, Sergeegdeh center, Bogdiin gol bag, Uliastai soum
+What3Words: /// broadens.admit.thank","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 08:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Арвайхээр тооцооны төв,Arvaiheer Branch,branch,"Арвайхээр сум, 5-р баг, ""Хангамж "" худалдааны төвийн 1-р давхар
+3 үгт хаяг: /// нэгдэн.захирамж.хэвлэгч","1st floor, Khangamj Shopping Center, 5th bag, Arvaikheer soum
+What3Words: /// greet.creamed.task","Даваа - Баасан: 08:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 08:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Дорнод салбар ,Dornod Branch,branch,"Хэрлэн сум, 6-р баг, Читын гудамж, ХасБанкны байр
+3 үгт хаяг: /// баярыг.голч.хүргээд","XacBank building, Chit street, 6th bag, Kherlen soum
+What3Words: /// discouraged.earphones.forget","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Хэрлэн тооцооны төв,Herlen Branch,branch,"Хэрлэн сум,6-р баг,  ""Тана"" худалдааны төвийн 1-р давхарт
+3 үгт хаяг: /// олгох.цуурай.шугамаа","1st floor of Tana center, 6th bag, Kherlen soum
+What3Words: /// piglets.costumed.gradually","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Увс салбар,Uvs Branch,branch,"Улаангом сум, 11-р баг, ХасБанкны байр
+3 үгт хаяг: /// хоршоо.хүргэгч.сэргэлэн","XacBank building, 11th bag, Ulaangom soum
+What3Words: /// quibble.erupt.croaking","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Улаангом тооцооны төв,Ulaangom Branch,branch,"Улаангом сум, 3-р баг, ""Өгөөмөр-Өгөөж"" ХХК-ийн байр, 1-р давхарт
+3 үгт хаяг: /// бэхжих.бүжигчид.сэдвийн","1st floor, Uguumur-Uguuj LLC building, 3rd bag, Ulaangom soum
+What3Words: /// bloodshot.trudges.sake","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Баруун-Урт салбар,Baruun-Urt Branch,branch,"Баруун-Урт сум, 7-р баг, Монголбанкны байр
+3 үгт хаяг: /// төгсөлт.халиун.хаантан","MongolBank building, 7th bag, Baruun-Urt soum
+What3Words: /// slice.wages.rainwater","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Ховд салбар,Hovd Branch,branch,"Жаргалант сум, Жаргалан баг, ХасБанкны байр
+3 үгт хаяг: /// шинэхэн.хийлч.хэсэгчлэл","XacBank building, Jargalan bag, Jargalant soum
+What3Words: /// dabble.opposites.shrubbery","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",70432756,1,1,1,1,1,0,0,08:30:00,16:30:00
+Баян-Өлгий салбар,Bayan-Ulgiy Branch,branch,"Өлгий сум, 5-р баг, MJS tower-ын 2-р давхарт, ХасБанкны байр;
+3 үгт хаяг: /// номоо.ууршилт.анхдагч","2nd floor, MJS tower, 5th bag, Ulgii soum
+What3Words: /// adhesive.bluntly.acrobat","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Зуунмод салбар,Zuunmod Branch,branch,"Зуунмод сум, 1-р баг, ХасБанкны байр
+3 үгт хаяг: /// илэрч.ивээл.үйлдэгч","XacBank building, 1st bag, Zuunmod soum, 
+What3Words: /// pretends.unsteady.median","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Булган салбар,Bulgan Branch,branch,"Булган сум, 6-р баг, Чин Ван Ханддоржийн өргөн чөлөө, 1-119 тоот, ХасБанкны байр
+3 үгт хаяг: /// цолыг.дулаахан.баахан","XacBank building, 1-119, Khanddorj avenue, 6th bag, Bulgan soum
+What3Words: /// lugging.motherhood.votes","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Замын-Үүд тооцооны төв,Zamiin-Uud Branch,branch,"Замын-Yүд сум, 1-р баг, 10-р хэсэг, Төв талбай, ХасБанкны байр
+3 үгт хаяг: /// бүрдэл.хувийг.бяруу","Xacbank building, Central square, 10th section, 1st bag, Zamiin-Uud soum
+What3Words: /// ungracious.outcast.cakewalk","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Цогтцэций тооцооны төв,Tsogttsetsii Branch,branch,"Цогтцэций сум, Цэций баг, ХасБанкны байр
+3 үгт хаяг: /// баярлав.хорвоод.авирлаж","XacBank building, Tsetsii bag, Tsogttsetseii soum
+What3Words: /// finds.intimates.aerobics","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Гранд тооцооны төв,Grand branch,branch,"Баянгол дүүрэг, 2-р хороо, Энхтайваны өргөн чөлөө-46, ""Гранд плаза"" худалдааны төв, B1 давхарт
+3 үгт хаяг: /// нартай.зөндөө.өмсөх","B1 floor, Grand Plaza shopping center, 2nd khoroo, Enkhtaivan Avenue, Bayangol district 
+What3Words: /// wept.skies.logbook","Даваа - Баасан: 08:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 08:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Долоон буудал Тооцооны төв,Doloon Buudal Branch,branch,"Сүхбаатар дүүрэг, 14-р хороо, /7 буудал/, Хүсэлт Төвийн 2 давхарт 
+3 үгт хаяг: /// амтлах.хийлгэх.авсан","2nd floor, Khuselt Center, /7 buudal/, 14th khoroo, Sukhbaatar District
+What3Words: /// mural.dividing.behaving","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+21-р хороолол тооцооны төв,21st microdistrict branch,branch,"Сонгинохайрхан дүүрэг, 6-р хороо, Содон хороолол  /18062/, үйлдвэрчний эвлэлийн гудамж 101-р байр 101 тоот
+3 үгт хаяг: /// дуулав.ажиглаж.тойм","Building no.101, #101, Sodon khoroolol, 6th khoroo, Songinohairhan district 
+What3Words: /// paints.fights.dimension","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Хүчитшонхор тооцооны төв,Huchit Shonhor Branch,branch,"Чингэлтэй дүүрэг, 11-р хороо, Дэнжийн мянгын 58, ""Хүчит Шонхор"" ХХК-ийн байр /""Хүчитшонхор"" зах дотор/
+3 үгт хаяг: /// үлдээх.сайшаал.цуглах","Khuchit Shonhor LLC building, 11th khoroo, Chingeltei District
+What3Words: /// cabs.choppers.disprove","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Төв Талбай Салбар,Central Square Branch,branch,"Сүхбаатар дүүрэг, 8-р хороо, Ерөнхий сайд Амарын гудамж, ХасБанкны төв байр /Сүхбаатарын талбайн зүүн талд/
+3 үгт хаяг: /// тоох.эхэлжээ.цамхагт","XacBank head office, Prime Minister Amar's Street, Sukhbaatar district
+What3Words: /// teaching.placidly.each","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Сансар салбар,Sansar branch,branch,"Баянзүрх дүүрэг, 3-р хороо, 13-р хороолол, Энхтайваны өргөн чөлөө, ""СиАрИ"" ХХК-ийн байр /Зүүн 4 замын баруун хойно, Эрүүл Мэндийн хүрээлэнгийн урд талд/
+3 үгт хаяг: /// үйлдэв.дуулах.бүжгээр","CRE LLC building, 13th khoroolol , 3th khoroo, Bayanzurkh District
+What3Words: /// iterative.pave.clarifies","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Хонгор тооцооны төв,Hongor Branch,branch,"Баянхонгор сум, 1-р  баг, ""Цэлмэг өглөө"" худалдааны төвийн 2-р давхарт
+3 үгт хаяг: /// давж.хэдийг.хацартай","2nd floor, Tselmeg Ugluu shopping center, 1st bag, Bayankhongor soum
+What3Words: /// roofing.bluffed.uproots","Даваа - Баасан: 10:00-18:00
+Бямба, Ням: Амарна","Monday - Friday: 10:00am-6:00pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,10:00:00,18:00:00
+Бор-Өндөр тооцооны төв,Bor-Undur ,branch,"Хэнтий аймаг,Бор-Өндөр сумын 2-р баг, ХасБанкны байр
+3 үгт хаяг: /// зөөгөөд.айлчлалууд.дугаар","XacBank building, 2nd bag, Bor-Undur soum
+What3Words: /// cadet.narrated.zygotes","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Ханбогд Тооцооны төв,Hanbogd Branch,branch,"Ханбогд сум, Цаг-Уурын-2 гудамж, 6 тоот, Их Өлзийт төвийн 2-р давхарт
+3 үгт хаяг: /// далайн.хураах.итгэмжлэл","Ikh Ulziit center 2nd floor, Tsag Uur-2 street, #8, Khanbogd soum
+What3Words: /// sharpens.ladles.worthier","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Хан-Уул тооцооны төв,Han-Uul Branch,branch,"Хан-Уул дүүрэг, 2-р хороо, BSB megamall-н баруун талд Ноос Импекс ХХК-н үйлчилгээний байрны 1 давхарт
+3 үгт хаяг: /// хэвлий.ээлжлэх.элээх","1st floor of Noos Impex building, 2nd khoroo, Khan-Uul district
+What3Words: /// headed.legroom.arrival","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Налайх салбар,Nalaih Branch,branch,"Налайх дүүрэг, 2-р хороо, Дамдины гудамж, Хасбанкны  байр
+3 үгт хаяг: /// оосор.цэгт.хэмнэлттэй","XacBank building, 2nd horoo, Damdin street, Nalaikh district
+What3Words: /// psychotics.martyr.canal","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Ард салбар,Ard Branch,branch,"Чингэлтэй дүүрэг, 1-р хороо, Худалдааны гудамж, Бага тойруу-1, Цэцэг төвийн 2-р давхарт
+3 үгт хаяг: ///шидтэн.хоршоо.үнэнч","2nd floor of Flower center, 1st horoo, Baga toiruu, Chingeltei district
+What3Words: ///butlers.verse.gazes","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Түшиг салбар,Tushig Branch,branch,"Сүхбаатар дүүрэг, 4-р хороо, Сөүлийн гудамж, ""Түшиг"" төвийн 1 давхарт
+3 үгт хаяг: /// соёлч.баримтлах.тавилга","1st floor, Tushig center, Seoul street, 4th horoo, Sukhbaatar district
+What3Words: /// joys.ally.reduction","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Зуун айл тооцооны төв,Zuun ail branch,branch,"Сүхбаатар дүүрэг, 10-р хороо,  Цагдаагийн  гудамж, ""АМО төв""-ийн 1-р давхар
+3 үгт хаяг: /// өсгөлт.тойруу.чангаанз","1st floor, AMO center, Police street, 10th khoroo, Sukhbaatar district
+What3Words: /// cuddling.acting.crisp","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна
+","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Яармаг тооцооны төв,Yarmag Branch,branch,"ХУД, 5-р хороо, Яармаг, Наадамчдын зам 929, Хоорс Моторс, 2-р давхарт
+3 үгт хаяг: ///буцах.хэвээрээ.тэгшлэх","Horse Motors, Naadamchid road 929, Yarmag, 5th khoroo, Khan-Uul district
+What3Words: ///results.poses.puzzled","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Өнөр тооцооны төв,Unur Branch,branch,"Сонгинохайрхан дүүрэг, 17-р хороо, 1-р хороолол, Москвагийн өргөн чөлөө АОС-43/Б байр /Хархорин, Сандэй-2 худалдааны төвийн замын хойд талд/ 
+3 үгт хаяг: /// нийлэмж.торго.зохистой","Building, АОС-43/B, 1st khoroolol, 17th horoo, Moscow Avenue, Songinokhairkhan 
+What3Words: /// swooning.moderated.unique","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+ХасБанк төв байр ATM,KhasBank Central ATM,atm,"8-р хороо, Ерөнхий сайд Амарын гудамж 
+/Сүхбаатарын талбайн зүүн талд, ХасБанк төв байр/","Micro-region #8, Prime Minister Amar`s Street, XacBank HQ Building",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Оргил салбар,Orgil Branch,branch,"Хан-Уул дүүрэг, 15-р хороо, Үйлдвэр зайсангийн гудамж-21, ""Газар шилтгээн"" цогцолборын 2-р давхарт /Зайсан, ""Оргил"" худалдааны төв, 2-р давхарт/
+3 үгт хаяг: /// үнэлгээ.урих.цэцгэн"," 2nd floor, ""Gazar Shiltgeen"" Complex,15th horoo, Khan-Uul district /Zaisan, ""Orgil"" Marketplace, 2nd floor/
+What3Words: /// splashes.duos.shuttling","Даваа - Баасан: 08:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 08:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Чойр салбар,Choir Branch,branch,"Говьсүмбэр аймаг, Сүмбэр сум, 3-р баг, 4-р байр /Онцгой байдлын газрын эсрэг талд/
+3 үгт хаяг: /// товлох.цомогт.тойруу","Apartment 4, 3rd bag, Sumber Soum, Gobisumber aimag 
+What3Words: /// feline.stopover.handstands","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Хархорин тооцооны төв,Harhorin Branch,branch,"Хархорин сум, Ганган-Орхон баг, Эрдэнэзуугийн гудамж, ХасБанкны байр 
+3 үгт хаяг: /// дахилт.зүүв.хоромд","XacBank building, Erdenezuu street, Gangan-Orkhon bag, Harhorin soum
+What3Words: /// broadest.solid.jarred","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Зүүнхараа тооцооны төв,Zuunharaa Branch,branch,"Мандал сум, 3-р баг, ХасБанкны байр
+3 үгт хаяг: /// танилцах.олно.салаа","XacBank building, 3rd bag, Mandal soum, 
+What3Words: /// spout.cooking.smirking","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Хөтөл тооцооны төв,Hutul Branch,branch,"Сайхан сум, 2-р баг, 15-р байр
+3 үгт хаяг: /// өртгөөр.хэвлэмэл.тэлж","15th building, Central street, Sayhan soum
+What3Words: /// cashews.pantomimed.kidneys","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Тосонцэнгэл тооцооны төв,Tosontsengel Branch,branch,"Тосонцэнгэл сум, Худалдааны гудамж, ХасБанкны байр
+3 үгт хаяг: /// сурсаар.бүрж.алдар","XacBank building, Hudaldaa street, Tosontsengel soum
+What3Words: /// recapture.early.geek","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+ХасБанк Төв салбар ATM,XacBank Central Branch ATM,atm,"1-р хороо, Энхтайваны өргөн чөлөө, Чингүнжавын гудамж
+/Боловсролын Их Сургуулийн замын урд/","Micro-region #1, Peace avenue, Chingunjav str. XacBank Central Branch",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Баянгол Техникийн Хяналтын үзлэгийн төв,KHUSUG TRADE AUTO ONSHILGOO ATM,atm,"29-р хороо, ТЭЦ-4-ийн зам
+/Хөсөг трейд Баянгол Техникийн Хяналтын үзлэгийн төв/",KHUSUG TRADE AUTO ONSHILGOO,Даваа-Ням: 10-18 цаг,Mon-Sun: 10:00-18:00,1800-1888,1,1,1,1,1,1,1,10:00:00,18:00:00
+УБ их дэлгүүр ATM,Ulaanbaatar Department Store ATM,atm,"4-р хороо, Энхтайваны өргөн чөлөө
+/Энхтайван найрамдлын ордны замын урд/","Micro-region #4, Peace Avenue, Ulaanbaatar Department Store",Даваа-Ням: 09-20 цаг,Mon-Sun: 9:00-20:00,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+100 айл салбар ATM,XacBank 100 ail Branch ATM,atm,"10-р хороо, Цагдаагийн гудамж
+/100 айл/","Micro-region #10, Tsagdaa str, XacBank 100 ail Branch","Даваа гарагт амарна.
+Бусад өдөр 10-19 цаг","Monday closed.
+Tue-Sun:10:00-19:00 ",1800-1888,0,1,1,1,1,1,1,10:00:00,19:00:00
+Их-Орд лоби зарлага ATM,Ikh ord lobby,atm,"14-р хороо, Их Орд төв
+/Халдвартын эмнэлэгийн баруун талд/","Micro-region # 14, Ikh ord tuv",Даваа-Ням: 24 цаг,Mon-Sun: 24 hour,1800-1888,1,1,1,1,1,1,1,06:00:00,23:59:00
+Хүсэл төв ATM,Khusel center ATM,atm,"14-р хороо, Хандгайтын гудамж, 7 буудал","Micro-region #14, Khandgait str,  7-n Buudal, Khusel center",Даваа-Ням: 08-24 цаг,Mon-Sun 08 am-12 pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Миний дэлгүүр ATM,Minii delguur market ATM,atm,"14-р хороо, Бэлхийн зам, Дамбадаржаа","Micro-region # 14, Belhi rd, Dambadarjaa, Minii delguur market",Даваа-Ням: 08-21 цаг,Mon-Sun 08:00-21:00,1800-1888,1,1,1,1,1,1,1,08:00:00,21:00:00
+И-Март Хан-Уул орлого АТМ,E-Mart Khan-Uul Express CRM-ATM,atm,"15-р хороо, Стадион Оргил (17011), Их монгол улсын гудамж 71, Имарт Хан-Уул","15th khoroo, Ikh Mongol street 71, E-Mart Khan-Uul",09:00-22:00,09:00am-10:00pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+1-р төрөх эмнэлэг АТМ,First maternity hospital ATM,atm,"1-р хороо, 1-р төрөх эмнэлэг","1st khoroo, First maternity hospital",Даваа-Ням: 24 цаг,Mon-Sun: 24 hours,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Ачлал дэлгүүр ATM,Achlal center ATM,atm,"14-р хороо, Ард Аюушийн өргөн чөлөө, 3-р хороолол","Micro-region #14, Ard Ayush avenue,  District #3, Achlal center",Даваа-Ням: 10-20 цаг,Mon-Sun: 10:00-20:00 ,,1,1,1,1,1,1,1,10:00:00,20:00:00
+Цирк Авто Тээврийн Үндэсний төв,CIRCUS ATUT АТМ,atm,"2-р хороо, 220 мянгат Цирк, АТҮТ ","2th khoroo, 220k, Circus ATUT, 1st floor ",Даваа-Баасан 08:30-17:30 цаг,08:30-17:30 hour,1800-1888,1,1,1,1,1,0,0,08:30:00,17:30:00
+Баянгол салбар ATM,XacBank Bayangol Branch ATM,atm,"13-р хороо, Ард Аюушийн өргөн чөлөө
+3-р хороолол Өргөө Кино театрын баруун талд","Micro-region #13, Ard Ayush avenue,  District #3, XacBank Bayangol Branch",Даваа-Ням 24/7,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Архангай Бүрэн хайпермаркет ATM,Arkhangai Buren hypermarket ATM,atm,Архангай Цэцэрлэг хот,Arkhangai Tsetserleg,Даваа-Ням: 10-21 цаг,Mon-Sun 10:00-21:00 ,,1,1,1,1,1,1,1,10:00:00,21:00:00
+Старс дэлгүүр ATM,Stars Center ATM,atm,"2-р хороо, Энхтайваны өргөн чөлөө, 
+ТБД Андууд","Micro-region #2, Peace Avenue, Stars Center",Даваа-Ням: 10-21 цаг,Mon-Sun 10:00-21:00 ,,1,1,1,1,1,1,1,10:00:00,21:00:00
+УБ Төмөр замын буудал ATM,Ulaanbaatar Railway Staion ATM,atm,"1-р хороо, Нарны зам, Вокзал","Micro-region #1, Narnii Rd, Ulaanbaatar Railway Staion",Даваа-Ням: 08-23 цаг,Mon-Sun 08:00-23:00,,1,1,1,1,1,1,1,08:00:00,23:00:00
+Төмөр замын эмнэлэг АТМ,Ulaanbaatar Railway Hospital ATM,atm,"4-р хороо, Энхтайваны өргөн чөлөө","Micro-region #4, Peace Avenue, Ulaanbaatar Railway Hospital",Даваа-Ням: 08-20 цаг,Mon-Sun: 08:00-20:00 ,,1,1,1,1,1,1,1,08:00:00,20:00:00
+Орхон зах ATM,Orkhon Market ATM,atm,"19-р хороо, Энхтайваны өргөн 
+Кокүшүю Тауэрын баруун талд ","Micro-region #19, Peace Avenue, Orkhon Market","Даваа-Ням: 10-20 цаг
+Пүрэв гарагт амарна","Mon-Sun: 10:00-20:00
+Thu: Closed ",,1,1,1,0,1,1,1,10:00:00,20:00:00
+Ефес бөөний төв ATM,Efes market ATM,atm,"6-р хороо, Энхтайваны өргөн чөлөө, 10-р хороолол","Micro-region #6, Peace Avenue, District #10, Efes market",Даваа-Ням: 09-23 цаг,Mon-Sun 09:00-23:00,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+Баянзүрх товчоо Сансар сүлжээ маркет АТМ,Bayanzurkh tovchoo Sansar suljee market,atm,"28-р хороо, 22 товчоо"," 22 tovchoo, Sansar suljee market",Даваа-Ням: 08-22 цаг,Mon-Sun: 08:00-22:00 ,,1,1,1,1,1,1,1,08:00:00,23:00:00
+М Март модны-2 Экспресс ATM,M mart Express ATM,atm,"17-р хороо, Дилавхутагт Жамсранжавын гудамж
+Модны 2 , Стрингс Клубын хойд тал","Micro-region #17, Dilav Khutagt Jamsranjav str, Max supermarket",Даваа-Ням: 08-23 цаг,Mon-Sun 08:00-23:00,,1,1,1,1,1,1,1,08:00:00,23:00:00
+Жанжин клуб ATM,Janjin club ATM,atm,"12-р хороо, Жанжин 18-р гудамж
+Жанжин клуб","Micro-region #12, Janjin club",24 цаг,24 hour,,1,1,1,1,1,1,1,00:00:00,23:59:00
+Телевиз Алдар ATM,Saruul Market ATM,atm,"11-р хороо, Телевиз, Алдар трейд","11rd khoroo, Televiz, Aldar trade",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Оргил тооцооны төв Экспресс ATM,XacBank Orgil branch Express ATM,atm,"1-р хороо, Зайсангийн зам, Оргил Шилггээн, 
+Оргил тооцооны төвийн 1 давхарт","Micro-region #1, Zaisan Road, Orgil Center, XacBank Orgil branch",Даваа-Ням: 09-22 цаг,Mon-Sun 9:00-22:00 ,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Хан-Уул салбар ATM,XacBank Khan-Uul Branch ATM,atm,"3-р хороо, Чингисийн өргөн чөлөө
+Хан-Уул дүүрэг цагаан хаалга","Micro-region #3, Chinggis Avenue, XacBank Khan-Uul Branch",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Яармаг Дэлгэр хангай Экспресс ATM,Delgerkhangai center Express ATM,atm,"6-р хороо, Яармаг эцсийн буудал","Micro-region #6, Yarmag, Delgerkhangai center",Даваа-Ням: 09-20 цаг,Mon-Sun 09:00-20:00,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Буянт-Ухаа зах ATM,Buyant-Ukhaa market ATM,atm,"9-р хороо, Нисэх хороолол, Буянт-Ухаа зах","Micro-region #9, Nisekh District, Buyant-Ukhaa market",Даваа-Ням: 10-21 цаг,Mon-Sun: 10:00-21:00 ,1800-1888,1,1,1,1,1,1,1,10:00:00,21:00:00
+Дэнжийн 1000 Сүүн дэлгүүр,Denjiin 1000 Suun ATM,atm,10-р хороо; Шинэчлэл хороолол,"Micro-region #10, Shinechlel Suun", 09-22 цаг, 09-22 hour,1800-1888,1,1,1,1,1,1,1,09:00:00,21:59:00
+Номин Юнайтед их дэлгүүр ATM,Nomin United Store ATM,atm,"2-р хороо, Чингисийн өргөн чөлөө
+Хуучинаар Гутлын үйлдвэр","Micro-region #2, Chinggis Avenue, Nomin United Store",Даваа-Ням: 10:00-21:00,Mon-Sun: 10:00-21:00,1800-1888,1,1,1,1,1,1,1,10:00:00,21:00:00
+ХасБанк Сонгино хайрхан салбар ATM,XacBank Songino Khairkhan Branch ATM,atm,"12-р хороо, Энхтайваны өргөн чөлөө, 1-р хороолол 
+Саппоро автобус буудал, ХасБанк Сонгино хайрхан салбар","Micro-region # 12, District #1 , Peace avenue, Sapporo busstation, XacBank Songino Khairkhan Branch",Даваа-Ням: 06-01 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,06:00:00,23:59:00
+Баруун салаа Өлзийт хайрхан ATM,Baruun salaa Ulziit khairkhan ATM,atm,"24-р хороо, Баянхошуу;
+Баруун салаа"," District #24, Bayankhoshuu, Baruun salaa ",Даваа-Ням: 08-22 цаг,Mon-Sun: 08:00-22:00 ,1800-1888,1,1,1,1,1,1,1,08:00:00,22:00:00
+Хархорин зах Экспресс ATM,Kharkhorin market Express ATM,atm,"15-р хороо, Энхтайваны өргөн чөлөө, 1-р хороолол 
+Хархорин зах дотор","Micro-region # 15, District #1, Peace avenue, Kharkhorin market","Даваа гарагт амарна.
+Мя-Ня: 9-19 цаг","Monday closed.
+Tue-Sun: 9:00-19:00 ",1800-1888,0,1,1,1,1,1,1,09:00:00,19:00:00
+Драгон Терминал ATM,Dragon Center Bus terminal ATM,atm,"18-р хороо, Энхтайваны өргөн чөлөө 
+Драгон төв","Micro-region # 18, Peace Avenue, Dragon Center, ",Даваа-Ням: 09-24 цаг,Mon-Sun: 09:00-24:00 ,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"""21"" худалдааны төв ATM",21 Trade Center ATM,atm,"19-р хороо, Үйлдвэрчдийн Эвлэлийн гудамж, 21-р хороолол
+21-р хорооллын хойд талд ","Micro-region # 19, Uildverchidiin Evlel str, District #21, 21 Trade Center","Лхагва гарагт амарна.
+Бусад өдөр 10-22 цаг","Wednesday: closed
+Mon-Sun: 10:00-22:00 ",1800-1888,1,1,0,1,1,1,1,10:00:00,22:00:00
+Орбит Алтай зах ATM,Orbit Altai Market ATM,atm,"1-р хороо, Орбит хуучин эцэс","Micro-region #1, Orbit busstation, Orbit Market","Мягмар: амарна
+Бусад өдөр  09-20 цаг","Wednesday: closed
+Mon-Sun: 9:00-20:00 ",1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Боса дэлгүүр ATM,Bosa market,atm,"10-р хороо, Баянхошуу эцсийн буудал","Micro-region #10, Bayankhoshuu, Bosa market",Даваа-Ням: 09-23 цаг,Mon-Sun 09:00-23:00,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+Номин Хайпермаркет ATM,Unur Nomin Hypermarket ATM,atm,"12-р хороо, Энхтайваны өргөн чөлөө, 1-р хороолол, Өнөр хотхон","Micro-region # 12, District #1 , Peace avenue, Unur Nomin Hypermarket","Да-Пү: 08:30-22:30
+Баасан: 08:30-24:00
+Бямба: 09:00-24:00
+Ням: 09:00-21:30 цаг","Mon-Thu: 08:30-22:30
+Fri: 08:30-24:00
+Sat: 09:00-24:00
+Sun: 09:00-21:30 ",1800-1888,1,1,1,1,1,1,1,08:30:00,22:30:00
+Өнөр Тооцооны төв Экспресс банк ATM,Unur Branch Express bank ATM,atm,"17-р хороо, 1-р хороолол, Москвагийн өргөн чөлөө 
+АОС-47/Б байр /Хар хорин захын замын хойно, ""Их минж"" ХХК-ийн байранд","Micro-Region #17, Moscow avenue, Unur Branch",Даваа-Ням: 08:00-24:00,Mon-Sun: 8 am-12 pm,1800-1888,1,1,1,1,1,1,1,09:00:00,19:00:00
+Гачуурт Намуу эрдэнэ дэлгүүр ATM,Gachuurt  Namuu erdene market ATM,atm,Баянзүрх 20-р хороо Гачуурт 1-2 тоот,"Gachuurt  Namuu erdene, 20th khoroo ",Даваа-Ням: 08:00-23:00 цаг,Mon-Sun: 8:00-23:00,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+"Улаанхуаран Эко зах, АТМ","Ulaankhuaran ECO market, ATM",atm,"8-р хороо, Улаанхуаран Эко зах","8th khoroo, Ulaankhuaran ECO market",Даваа-Ням: 09-18 цаг,Mon-Sun: 09am-6pm,1800-1888,1,1,1,1,1,1,1,09:00:00,18:00:00
+БОСА Бөөнийн Төв ATM,Bosa Supermarket ATM,atm,"20-р хороо, Энхжин Худалдааны төвийн зүүн талд","Micro-region #20, Bosa Supermarket","Даваа-Баасан: 08:00-23:00
+Бя-Ням: 09-22 цаг","Mon-Fri: 08:00-23:00
+Sat-Sun: 09:00-22:00",,1,1,1,1,1,1,1,08:00:00,23:00:00
+"Сансар салбар, Экспресс банк АТМ","Sansar Branch, Express Bank АТМ",atm,"3-р хороо, Энхтайваны өргөн чөлөө, 13-р хороолол 
+Зүүн 4 зам","Micro-region #3, Peace Avenue, District #13, XacBank Bayanzurkh Branch",24 цаг,Mon-Sun: 06:00-01:00,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+ЭФЭС супермаркет АТМ,EFES supermarket ATM,atm,"6-р хороо, 13-р хороолол, Бөхийн Өргөөний урд, ЭФЭС супермаркет","Micro-region #6, District #13, EFES supermarket, infront of Wrestling Palace",Даваа-Ням: 08:45-23:45,Mon-Sun: 08:45-23:45,18001888,1,1,1,1,1,1,1,08:45:00,23:45:00
+Улиастай Баялаг дэлгүүр ATM,Uliastai Bayalag Market ATM,atm,"23-р хороо, Баатархайрхан 1-р хэсэг, 1558 тоот","23rd khoroo, 1st sector of Baatarkhairkhan, 1558",Даваа-Ням,Monday to Sunday,,1,1,1,1,1,1,1,09:00:00,22:00:00
+Нарантуул Чандмань төв Экспресс ATM,Narantuul Chandmani Center Express ATM,atm,"14-р хороо, Нарны зам, Нарантуул захын зүүн талд, Чандмань төв","Micro-region #14, Narni Rd, left side of Narantuul market","Мягмар гаригт амрана.
+Бусад өдөр 07-24 цаг","Tuesday closed.
+Mon-Sun: open 24 hours",,1,0,1,1,1,1,1,07:00:00,23:59:00
+Уран Ган ATM,Uran gan ATM,atm,"3-р хороо, Уран ган худалдааны төв",Uran gan center,Даваа-Ням: 09-18 цаг,Mon-Sun 09:00-18:00,,1,1,1,1,1,1,1,09:00:00,18:00:00
+И-Март Скай худалдааны төв ATM,E-Mart Sky centre ATM,atm,"1-р хороо, Токиогийн гудамж
+Чингис Хаан Зочид буудал","Micro-region #1, Tokio str, Chinggis Khaan Hotel, Sky centre",Даваа-Ням: 09-22 цаг,Mon-Sun 09:00-22:00,,1,1,1,1,1,1,1,09:00:00,22:00:00
+Миний дэлгүүр ATM,Minii Delguur market,atm,"25-р хороо, Нарны зам","Micro-region #25, Narnii Road, Minii Delguur market",Даваа-Ням: 08-24 цаг,Mon-Sun 08:00-24:00,,1,1,1,1,1,1,1,08:00:00,23:59:00
+Норжин миний дэлгүүр ATM,Norjin Minii delguur ATM,atm,"4-р хороо, 15-р хороолол, Энхтайвны өргөн чөлөө
+Жуков музей баруун талд ","Micro-region #4, District #15, Peace Avenue, Norjin Minii delguur",Даваа-Ням: 08:30-20:30 цаг,Mon-Sun: 08:30-20:30 ,,1,1,1,1,1,1,1,08:30:00,20:30:00
+City shop ATM,City shop ATM,atm,"13-р хороо, Энхтайваны өргөн чөлөө
+ Оффицерийн урд талын автобусны буудал","Micro-region #13, Peace Avenue, Offitser City shop market",Даваа-Ням: 09-23 цаг,Mon-Sun 09:00-23:00,,1,1,1,1,1,1,1,09:00:00,23:00:00
+АВРОРА ЗОЧИД БУУДАЛ,AURORA HOTEL,atm,"4-р хороо, 10 хороолол, Аврора зочид буудал","4th khoroo, Peace avenue Aurora hotel",24 цаг,24 цаг,1800-1888,1,1,1,1,1,1,1,00:00:00,00:00:00
+Бэлхи Ууган төв ATM,Belkhi Uugan center ATM,atm,"18- р хороо, Бэлхийн гудамж Ууган төв","Micro-region #18, Belkhi Uugan tuv supermarket",Даваа-Ням: 08-24 цаг,Mon-Sun: 08-24,,1,1,1,1,1,1,1,08:00:00,23:59:00
+Баянзүрх худалдааны төв ATM,Bayanzurkh trade center ATM,atm,"16-р хороолол, 16-р хороо","Micro-region #16, District #16, Bayanzurkh trade center","Лхагва гаригт амарна.
+Бусад өдөр 10-22 цаг ","Wednesday closed
+Mon-Sun: 10:00-22:00  ",,1,1,0,1,1,1,1,10:00:00,22:00:00
+Эх Ундарга дэлгүүр АТМ,Ekh Undarga market ATM,atm,"9-р хороо, Гэмтлийн эмнэлгийн хойно Эх Ундрага дэлгүүр","9th Khoroo, Ekh Undarga Market",Даваа-Ням: 08:00-23:00 цаг,Mon-Sun 08am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Итгэлт худалдааны  төв ATM,Itgelt Trade center ATM,atm,"12-р хороо; Амгалан, Тролейбусны эцсийн буудал","Micro-region #12, Chuluun Ovoo, Iteglt Trade center",Даваа-Ням: 09-21 цаг,Mon-Sun 09:00-21:00,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+Дүнжингарав ХТ ATM,Dunjingarav Trade Center ATM,atm,"6-р хороо, Нарны зам
+Нарантуул захын замын урд талд","Micro-region #6, Narni Rd, Dunjingarav Trade Center",Мягмар-Ням:10-20 цаг,Tue-Sun 10:00-20:00,,1,0,1,1,1,1,1,10:00:00,20:00:00
+ Сансар супер маркет Экспресс ATM,Sansar supermarket Express ATM,atm,"18-р хороо, 13-р хороолол
+13-р хорооллын дундын зам, ФМ 107.5 байрны замын хойд талд","Micro-region #18,  District #13, Manlai Baatar Damdinsuren str., Sansar supermarket",Даваа-Ням: 09-22 цаг,Mon-Sun 09:00-22:00,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Амгалан зах Экспресс ATM,Amgalan Market Express ATM,atm,"10-р хороо, Амгалан
+Амгалангийн төмөр замын гарамын хойд талд","Micro-region #10, Amgalan, Amgalan Market","Даваа гаригт амарна.
+Мягмар-Ням: 10-20 цаг","Monday closed
+Tue-Sun  10:00-20:00",,0,1,1,1,1,1,1,10:00:00,20:00:00
+Их Орд Тооцооны төв,Ikh Ord center,branch,"Баянзүрх дүүрэг, 14-р хороо, Нам Янжүгийн гудамж
+Их Орд төв
+ 3 үгт хаяг: /// чагт.царай.дүрмээ","Bayanzurkh District, Micro-region #14, Nam Yanju Str, Ikh Ord center, XacBank Branch
+ What3Words: /// teacher.absorbing.posting","Даваа - Баасан: 9:00-17:00
+Бямба, Ням: Амарна","Monday - Friday: 9:00am-5:00pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,09:00:00,17:00:00
+Шинэ хүнс супермаркет ATM,Shine Huns Market ATM,atm,"27-р хороо, Дарь Эх хуучин эцэс
+100 айл салбарын татан буугдсан өргөтгөлийн замын эсрэг талд","Micro-region #27, Dari Eh, Shine Huns Market",Даваа-Ням: 9:00-23:50,Mon- Sun: 09:00-23:50 ,,1,1,1,1,1,1,1,09:00:00,23:50:00
+Night Plaza худалдааны төв Экспресс ATM,Night Plaza Trade Center Express ATM,atm,"14-р хороо, Нам Янжүгийн гудамж, 13-р хороолол","Micro-region #14, Nam Yanju Str, Night Plaza Trade Center","Пүрэв гарагт амарна.
+Бусад өдөр 11-24 цаг ","Thursday closed,
+Mon-Sun: 11:00-24:00",,1,1,1,0,1,1,1,11:00:00,23:59:00
+Улаанбаатар Сувилал АТМ,Ulaanbaatar suvilal ATM,atm,"11-р хороо, Улаанбаатар Сувилал","Micro-region #11, Ulaanbaatar suvilal",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Таац Алт дэлгүүр ATM,Taats Alt market ATM,atm,"22-р хороо, 6-р Бичил хороолол, Таац алт зочид буудал, хүнсний дэлгүүр","22nd khoroo, 6th microdistrict, Taats alt hotel and supermarket ",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Бүрд төв ATM,Burd Center ATM,atm,"12-р хороо, 
+32-ийн тойрог ","Micro-region #12, Burd center","Мягмар-Ням: 09-20 цаг 
+Даваа амрана","Tue-Sun 09:00-20:00  
+Monday closed",1800-1888,0,1,1,1,1,1,1,09:00:00,20:00:00
+Багануур салбар ATM,Baganuur Branch ATM,atm,"Багануур салбар
+1-р хороо, Нацагдоржийн гудамж 7/1 ","Micro-region #1, Natsagdorj str, XacBank, Baganuur Branch ",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Налайх салбар Экспресс ATM,Nalaikh Branch Express ATM,atm,"2-р хороо, Налайхын төв гудамж  ","Micro-region # 2, Nalaikh Tuv str, XacBank, Nalaikh Branch",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Налайх зах, Экспресс АТМ",Nalaikh market Express ATM,atm,"Налайх дүүрэг, 2-р хороо, Налайх зах ","Nalaikh Market,  2nd committee, Nalaikh district",08:30-20:00цаг,08:30am-20:00pm,1800-1888,1,1,1,1,1,1,1,08:30:00,20:00:00
+Эрдэнэт салбар Экспресс ATM,XacBank Erdenet Branch Express ATM,atm,"Эрдэнэт, Эрдэнэт салбар","Erdenet city, XacBank Erdenet Branch","Да-Ба: 09:00-18:00
+Бямба: 11:00-17:00","Mon-Fri: 09:00-18:00
+Sat: 11:00-17:00
+Sunday closed",1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Хөвсгөл Салбар ATM,XacBank Huvsgul Branch ATM,atm,"Мөрөн, Салбарын байранд","Huvsgul aimag, Murun city, XacBank Huvsgul Branch",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Төмөр замын буудал ATM,Railway station ATM,atm,"Сэлэнгэ аймаг, Мандал сум, 1-р баг, Төмөр замын өртөө ","Сэлэнгэ аймаг, Мандал сум, 1-р баг, Төмөр замын өртөө ",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+АНАР худалдааны төв ATM,Anar trade center ATM,atm,"Булган салбар, АНАР худалдааны төв","Bulgan city, Anar trade center",Даваа-Ням:09-24 цаг,Mon-Sun 09:00-24:00,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+Дархан Номин ATM,Nomin Supermarket ATM,atm,"Дархан салбар 1, Дархан Номин","Darkhan city, Nomin Supermarket",Даваа-Ням: 09:30-21:30 цаг,Mon-Sun: 9:30-21:30,1800-1888,1,1,1,1,1,1,1,08:30:00,22:00:00
+Дархан Вокзал ATM,Darkhan Railway Station ATM,atm,"Дархан салбар 2, Вокзал","Darkhan city, Railway Station",Даваа-Ням: 08:30-22:00 цаг,Mon-Sun: 08:30-22:00 ,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+Оюу төв ATM,Oyu center ATM,atm,"Арвайхээр, Оюу төв","Arvaikheer sum, Oyu center",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Хишиг Худалдааны төв ATM,TOBU center ATM,atm,"Ховд, Жаргалант сум, Хишиг Худалдааны төв","Khovd city, TOBU center",08:00 - 23:00 цаг,08:00 - 23:00,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Увс салбар ATM,XacBank Uvs Branch ATM,atm,"Улаангом, Увс салбар","Ulaangom sum, XacBank Uvs Branch",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Цогтцэций салбар ATM,Tsogttsetsii ATM,atm,Өмнөговь аймаг Цогтцэций сум Өгөөмөр 4-р баг Цэций хороолол. 9-р байр Минимаркет дэлгүүр дотор,"Tsogttsetsii province, Uguumur 4th bag, Minimarket ",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Архангай салбар Экспресс ATM,Tsetserleg Express ATM,atm,"Цэцэрлэг, Архангай салбар",Tsetserleg sum. XacBank branch,24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Хэнтий 99 март ATM,Khentii mart99 ATM,atm,"Өндөрхаан, ","Kherlen sum, ",Даваа-Ням:08-00 цаг,Mon-Sun 08:00-00:00,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Цогжавхлан ATM,Tsogjavkhlan ATM,atm,"Даланзадгад, /","Dalanzadgad sum,  ",09:00-00:00 цаг,9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+Хархорин ATM,Kharkhorin ATM,atm,"Өвөрхангай аймаг, Хархорин сум, Ганган орхон баг, Захын арын 7-1 тоот, Наранбулаг худалдааны төв","Kharkhorin sum, Naranbulag mart",09-23 цаг,9am-11pm hour,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+Мэдээлэл Холбоо Сүлжээ ATM,Post Office ATM,atm,"Өлгий, Монгол Шуудангийн байранд","Ulgii sum, Central Post Office",09:00 - 20:00,09:00 - 20:00,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Нарлаг маркет ATM,Narlag market ATM,atm,"Алтай, Монгол Шуудан","Altai Sum, Mongolia Post",Даваа-Ням:10-20 цаг,Mon-Sun 10:00-20:00,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+Баруун-Урт ATM,Baruun Urt ATM,atm,"Баруун-Урт, 
+Жаахан шарга аймгийн театр","Baruun Urt sum, Jaahan sharga theater",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Зуунмод салбар ATM,Zuunmod ATM,atm,"Зуунмод, Зуунмод салбар","Zuunmod sum, XacBank branch",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Шим Худалдааны төв ATM,Shim center ATM,atm,"Хөтөл, Шим Худалдааны төв","Saihandulaan sum, Shim center",24 цаг,24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Баянмонгол тооцооны төв,Bayanmongol Branch,branch,"Баянзүрх дүүрэг, Хүннү гудамж, 26-р хороо, Элизабет хотхон 214-р байр
+3 үгт хаяг: /// өсгөв.энэрч.чанарлаг","Elizabeth town-214, Hunnu street, 26th horoo, Bayanzurkh district
+What3Words: /// provide.needed.gossiped","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-04:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Шинэ сонголт Тооцооны төв,Shine songolt Branch,branch,"Хан-Уул дүүрэг, 3-р хороо, Энгельсийн гудамж, Шинэ сонголт тавилгын дэлгүүрийн 1-р давхарт
+3 үгт хаяг: ///intestine.drizzly.prompting","1st floor, Shine Songolt Brand Department store, 3rd khoroo, Engels' street, Khan-Uul district, Ulaanbaatar
+What3Words: ///intestine.drizzly.prompting","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Дорноговь салбарын өргөтгөл,Dornogovi branch extension ,branch,"Сайншанд сум, 4-р баг Брау сүм, эмийн сангийн 2 давхарт
+3 үгт хаяг: /// жишиг.гарахыг.дэлгэн","2nd floor of Pharmacy at Brau church, 4th bag, Sainshand soum, 
+What3Words: /// compels.tolerates.disapproves","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",70522221,1,1,1,1,1,0,0,08:30:00,16:30:00
+Бөмбөгөр тооцооны төв ,Bumbugur branch,branch,"ЧД, 3-р хороо, Жуулчны гудамж-34, Пийрл таурын 3-р давхарт
+3 үгт хаяг: ///grants.octagon.light","3rd floor of Pearl Tower, 3rd khoroo, Tourist street, Chingeltei district 
+What3Words: ///grants.octagon.light","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Ай Си Си тооцооны төв,ICC branch,branch,"Сүхбаатар дүүрэг, 1-р хороо, Ай Си Си Тауэр, 1-р давхарт
+3 үгт хаяг: /// олгов.төрх.хөтөлбөр","ICC Tower, 1st floor, 1st khoroo, Sukhbaatar district
+What3Words: /// cured.down.repaid","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Ривер стрийт тооцооны төв,River Street branch,branch,"Хан-Уул дүүрэг, 11-р хороо, Их Монгол Улсын гудамж, 311-р байр, 1 давхар
+3 үгт хаяг: /// оролцох.цовоо.жолоодогч","1st floor, Building NO 311, Ikh Mongol Uls street, 11th khoroo, Khan-Uul district
+What3Words: /// paintings.tame.seasons","Даваа - Баасан: 8:30-16:30
+Бямба, Ням: Амарна","Monday - Friday: 8:30am-4:30pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,08:30:00,16:30:00
+Их Монгол тооцооны төв,Ikh Mongol branch,branch,"ХУД, 11-р хороо, Их Монгол Улсын гудамж, Их монгол плаза, 1-р давхар
+3 үгт хаяг: /// сүрлэг.айлчин.шорлог","Ikh Mongol Plaza 1st floor, 11th khoroo, Khan-Uul district
+What3Words: ///moves.sweeter.blogging","Даваа - Баасан: 9:00-17:00
+Бямба, Ням: Амарна","Monday - Friday: 9:00am-5:00pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,09:00:00,17:00:00
+"Эрдэнэт салбар, Экспресс банк АТМ","Erdenet branch, Express bank АТМ",atm,"Орхон аймаг, Баян-өндөр сум,  Оюут баг, Сэлэнгэ ресторан, Хас банк Эрдэнэт салбар
+","Orkhon province, Bayan-Undur, Selenge restaurant, Xac bank Erdenet branch ",24/7,24/7,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"1000 нэрийн бараа, Экспресс АТМ","Myangan neriin baraa, Express ATM",atm,"15-р хороо, 3-р хороолол, 1000 нэрийн барааны дэлгүүр","""Myangan neriin baraa"" market,15th committee, 3rd section, Bayangol district ",Даваа-Ням 10:00-20:00,Mon-Sun 10am-08pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+"Степпе арена мөсөн ордон, Экспресс банк АТМ","Steppe Arena, Express bank ATM",atm,"21-р хороо, Зуун модны зам, Степпе арена мөсөн ордон","Steppe Arena, Express bank ATM",Даваа-Ням 24 цаг,Mon-Sun 24 hour open,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+Дарь-Эх Үндэс бөөний төв,Dari-Ekh undes tuv,atm,"БЗД, 2-р хороо, Дарь-Эх Үндэс бөөний төв","Bayanzurkh district, 2st khoroo, Dari-Ekh undes tuv",Даваа-Ням 07-24 цаг,Mon-Sun 7am-12pm,1800-1888,1,1,1,1,1,1,1,07:00:00,22:59:00
+Цамбагарав М-Март АТМ,Tsambagarav M-Mart ATM,atm,"14-р хороо, 1-р хороолол, Цамбагарав,  Залуусын гудамж, M-Mart","14th khoroo, 1st microdistrict, Tsambagarav, M-Mart",Даваа-Ням 08:00-21:00 цаг,Mon-Sun 08am-21pm,1800-1888,1,1,1,1,1,1,1,08:00:00,21:00:00
+2-р эмнэлэг АТМ, State Second Government Hospital АТМ,atm,"БЗД, 13-р хороолол, 3-р хороо, Сайд нарын 2-р эмнэлэг","13th Microdistrict, 13th Khoroo, Bayanzurkh District",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,18:00:00
+Гэмтэлийн эмнэлэг АТМ,National Trauma and orthopedic research center  ATM,atm,"7-р хороо, Ард Аюушийн өргөн чөлөө, Гэмтэл согог судлалын үндэсний төв, Амбулторын хаалга, 1 давхарт ","7th khoroo, Ard Ayush avenue, National Trauma and orthopedic research center, 1st floor ",Даваа-Баасан 07:30-18:00 цаг,Mon-Fri 07:30am-18:00pm,1800-1888,1,1,1,1,1,0,0,07:30:00,18:00:00
+Хүүхдийн 2-р эмнэлэг АТМ,100 ail 2th Hospital АТМ,atm,"10-р хороо, 100 айл Хүүхдийн 2-р эмнэлэг",10-r khoroo 100 ail 2th Hospital ,Даваа-Ням 24/7,Mon-Sun 24/7,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"ICC тауэр, Экспресс АТМ","ICC Tower, Express ATM",atm,"1-р хороо, Жамъяан гүний гудамж, Эрүүл мэндийн яамны баруун талд, ICC тауэр","1st committee, Jamiyan Gun Street, right side of Ministry of Health, ICC Tower",Даваа-Ням 08:00-20:00,Mon-Sun 8am-8pm,1800-1888,1,1,1,1,1,1,1,08:00:00,20:00:00
+Аз хүнсний дэлгүүр ATM,Az Market ATM,atm,"18-р хороо, Чингэлтэйн гудамж, Аура төв, Аз хүнсний дэлгүүр ","18th committee, Chingeltei road, Chingeltei district, Az  Market",Даваа-Ням 08:00-23:00,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Алаг тараг худалдааны төв ATM,Alag Tarag Market ATM,atm,"1-р хороо, Найрамдлын зам, Орбит хуучин эцэс, Алаг тараг худалдааны төв","1st committee, Nairamdal road, Orbit, Songinokhairan district, Alag Tarag Market ",Даваа-Ням 08:00-20:00,Mon-Sun 8am-8pm,1800-1888,1,1,1,1,1,1,1,08:00:00,20:00:00
+Алт сар дэлгүүр ATM,Alt Sar Market ATM,atm,"13-р хороо, 17 буудал, Алт сар дэлгүүр","13th committee, 17th station, Chingeltei district, Alt Sar Market ",Даваа-Ням 09:00-24:00,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+Алтжин бөмбөгөр ATM,Altjin Bumbugur ATM,atm,"2-р хороо, Их тойруу, Алтжин бөмбөгөр худалдааны төвийн В1 давхарт","2nd committee, Ikh toiruu street, Chingeltei district, Altjin Bumbugur Market, B1 floor ","Лхагва  гариг амарна
+Даваа-Ням 10:00-24:00","Mon-Sun 10am12pm
+Wednesday closed",1800-1888,1,1,0,1,1,1,1,10:00:00,23:59:00
+"Алтжин бөмбөгөр, Экспресс АТМ ","Altjin Bumbugur, Express ATM",atm,"2-р хороо, Их тойруу, Алтжин бөмбөгөр худалдааны төвийн 1 давхарт","2nd committee, Ikh toiruu street, Chingeltei district, Altjin Bumbugur Market, 1st floor ","Даваа-Ням 10:00-24:00
+Лхагва  гариг амарна","Mon-Sun 10am-12pm
+Wednesday closed",1800-1888,1,1,1,0,1,1,1,10:00:00,19:59:00
+Амаяа дэлгүүр ATM,Amaya Market ATM,atm,"23-р хороо, Хувьсгалын зам, Зурагтын шинэ эцэс автобусны буудал, Баянгол дүүрэг, Амаяа дэлгүүр ","23rd committee, Revolutionary road, new terminal of Zuragt, Bayangol dictrict, Amaya market ",Даваа-Ням 09:00-24:00,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+"Амгалан, Жанжин зах  ATM","Janjin Market, Amgalan ATM",atm,"12-р хороо, Цагдаагийн академийн өргөн чөлөө, Жанжин зах худалдааны төв ","12nd khoroo, Avenue of the Police Academy, JANJIN Market ",Даваа-Ням 10:00-20:00,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+Анар хүнсний дэлгүүр ATM,Anar Supermarket ATM,atm,"10-р хороо, Худгийн гудамж, 16-р сургуулийн урд, Анар хүнсний дэлгүүр ","10th khoroo, wells street, Sukhbaatar district,  infront of 16th school, Anar Supermarket",Даваа-Ням 08:00-24:00,Mon-Sun 8am-12pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+"Андууд супермаркет, Экспресс АТМ","Anduud Supermarket, Express ATM",atm,"15-р хороо, Хан-Уул дүүрэг, Хүннү хороолол, Андууд супермаркет ","15th khoroo, Khan-Uul district, Khunnu 2222, Anduud Supermarket
+",Даваа-Ням 09:00-22:00,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+"Ард салбар, Цэцэг төв Экспресс банк ATM","Xacbank Ard branch Tsetseg tuv, Express bank ATM",atm,"1-р хороо, Бага тойруу, Хас банк Ард салбар Цэцэг төв","1st khoroo, Baga toiruu street, Chingeltei district, Xacbank Ard branch",Даваа-Ням 8-20 цаг,Mon-Sun 8-20 hour,1800-1888,1,1,1,1,1,1,1,08:00:00,20:00:00
+"22 товчоо М март, Экспресс банк ","22 Tovchoo M mart, Express bank ATM",atm,"32-р хороо, 22 товчоо М март ","32st khoroo, 22 Tovchoo M mart",Даваа-Ням 08-22 цаг,Mon-Sun 08-22 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,21:59:00
+"Асио зах, Экспресс АТМ","Asio Market, Express ATM",atm,"19-р хороо, Да хүрээ гудамж, 16-р хороолол буудлын ард, Асио зах
+","19th khoroo, Da Khuree street, 16th district, Bayanzurkh, Asio Market ",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-20pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Бат-Ундрал Аривжих хүнсний дэлгүүр ATM,Bat-Undral Arivjikh mini market ATM,atm,"3-р хороо, Толгойтын гудамж, 65-р сургуулийн урд, Бат-Ундрал Аривжих хүнсний дэлгүүр","3rd khoroo, Tolgoit road, Songinokhairkhan district, infront of 65th school, Bat-Undral Arivjikh mini market ",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+"Баялаг ундраа худалдааны төв, Экспресс АТМ ","Bayalag-Undraa market, Express ATM-1",atm,"14-р хороо, Нарны зам, Баялаг ундраа худалдааны төв ","14th khoroo, Sun road, bayanzurkh district, Bayalag Undraa Center ","Даваа-Ням 08:00-20:00 цаг
+Мягмар амарна","Mon-Sun 8am-8pm  
+Tuesday closed",1800-1888,1,0,1,1,1,1,1,08:00:00,20:00:00
+"Баялаг ундраа худалдааны төв, Экспресс АТМ ","Bayalag-Undraa market, Express ATM-2",atm,"14-р хороо, Нарны зам, Баялаг ундраа худалдааны төв ","14th khoroo, Sun road, bayanzurkh district, Bayalag Undraa Center ","Даваа-Ням 08:00-20:00 цаг 
+Мягмар амрана","Mon-Sun 8am-8pm  
+Tuesday closed",1800-1888,1,0,1,1,1,1,1,08:00:00,20:00:00
+"Баялаг ундраа худалдааны төв, Экспресс АТМ-3","Bayalag-Undraa market, Express ATM-3",atm,"14-р хороо, Нарны зам, Баялаг ундраа худалдааны төв ","14th khoroo, Sun road, bayanzurkh district, Bayalag Undraa Center ","Даваа-Ням 08:00-20:00 цаг
+мягмар амрана","Mon-Sun 8am-8pm  
+Tuesday closed",1800-1888,1,0,1,1,1,1,1,08:00:00,20:00:00
+Баялаг хүнсний дэлгүүр ATM,Bayalag mini market ATM,atm,"2-р хороо, Толгойтын гудамж, Толгойтын хуучин эцэс, Баялаг хүнсний дэлгүүр ","2nd khoroo, Tolgoit street, Tolgoit old terminal, Bayalag mini market ",Даваа-Ням 08:00-24:00 цаг,Mon-Sun 8am-12pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Нисэх Миний Хайпермаркет АТМ,Nisekh Minii Hypermarket ATM,atm,"10-р хороо, нисэх спорт ордны хойно  ","10th khoroo, back side of Nisekh sport complex, Minii hypermarket",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Баянзүрх дүүргийн эрүүл мэндийн нэгдсэн эмнэлэг АТМ,General Health Clinic of Bayanzurkh АТМ,atm,"22-р хороо, БЗД-ийн эрүүл мэндийн нэгдсэн эмнэлэг ","22nd khoroo, Bayanzurkh district, General Health Clinic of Bayanzurkh ",Даваа-Ням 07:00-24:00 цаг,Mon-Sun 7am-12pm,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+"Баянмонгол тооцооны төв, Экспресс банк АТМ","Xacbank Bayanmongol branch, express bank АТМ",atm,"26-р хороо, Хүннүгийн гудамж, Элизабет хотхон, Хас банк Баянмонгол тооцооны төв ","Bayanzurkh district, 26th khoroo, Khunnu street, Elizabeth town,Xacbank Bayanmongol branch",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+"Well mart супермаркет, Экспресс АТМ","Well mart Supermarket, Express ATM",atm,"11-р хороо, Буянт Ухаа хороолол, Well mart","Khan-Uul district, 11st khoroo, buyant Ukhaa, Well mart ",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Бест массаж ATM,Best Massage ATM,atm,"3-р хороо, Монголын Хараагүйчүүдын Үндэсний Холбоо, Бест массаж ","Khan-uul district, 3rd khoroo, Union of the Black Eyed Peas of Mongolia, Best massage ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Бидний дэлгүүр  ATM,Bidnii Supermarket ATM,atm,"30-р хороо,1-р хороолол, Өнөр хорооллын гудамж, 34-р байрны замын хойно, Бидний дэлгүүр ","Songinokhairkhan, 1st district, 30th khoroo, Bidnii Supermarket",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Амгалан М-Март АТМ,Amgalan M-Mart ATM,atm,"Баянзүрх дүүрэг, Амгалан М-Март ","Bayanzurkh, Amgalan M-Mart",Даваа-Ням 09:00-23:00 цаг,Mon-Sun 9am-11pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+Гүен хүнсний дэлгүүр АТМ,Guyen Mini market ATM,atm,"28-р хороо, Гачууртын зам, Хужирбулан, Гүен хүнсний дэлгүүр ","Bayanzurkh district, 28 th khoroo, the Gachuurt road, Khujirbulan, Guyen Mini market ",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Гэгээ дэлгүүр АТМ,Gegee mini market ATM,atm,"Дэнжийн 1000 цагаан байр, Гэгээ дэлгүүр","Denjiin 1000 white buildings, Gegee Mini Market ",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Да хүрээ Авто холл АТМ,Da Khuree Auto Hall ATM,atm,"19-р хороо Да хүрээ гудамж, Авто холл ","Bayanzurkh district, 19th khoroo, Da Khuree street, Auto Hall ","Даваа-Ням 09:00-20:00 цаг
+амарна","mon-Sun 9am-8pm
+closed",1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Да хүрээ Манду, Экспресс АТМ","Da Khuree Mandu, Express ATM",atm,"17-р хороо, Да хүрээ авто худалдааны төв, Манду хоолны газар ","Bayanzurkh district, 17th khoroo, Da Khuree Auto Market, Mandu restaurant ","Мягмар-Ням 10:00-18:00 цаг
+Даваа гариг амарна","Мягмар-Ням 10:00-18:00 цаг
+Monday closed",1800-1888,0,1,1,1,1,1,1,10:00:00,18:00:00
+"Да хүрээ, Нэг цэгийн үйлчилгээний төв АТМ","Da Khuree, One-stop Service Center ATM",atm,"17-р хороо, Да хүрээ авто худалдааны төв, Нэг цэгийн үйлчилгээний төв","Bayanzurkh district, 17th khoroo, Da Khuree Auto Market, One-stop Service Center ",Мягмар-Ням 10:00-19:00 цаг,Tue-Sun 10am-7pm,1800-1888,0,1,1,1,1,1,1,10:00:00,19:00:00
+Дако центр АТМ,Dako Center ATM,atm,"14-р хороо, Өргөө кино театрын зүүн хойно Дако центр","Bayangol district, 14th khoroo, north east in the Urgoo Movie Teatre, Dako Center ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+Далайхүү АТМ,Dalaikhuu ATM,atm,"14-р хороо, Хайлааст Далайхүү худалдааны төв","Chingeltei district, 14th khoroo, Khailaast, Dalaikhuu Market ",Даваа-Ням 10:00-19:00 цаг,Mon-Sun 10am-7 pm,1800-1888,1,1,1,1,1,1,1,10:00:00,19:00:00
+Да хүрээ Шинэ зоог АТМ,Da khuree Shine zoog ATM,atm,"17-р хороо, Шархадны гудамж, Шинэ зоог","Bayanzurkh district, 17th khoroo, Sharkhad street","Мягмар-Ням 10:00-18:00 цаг
+Даваа гариг амарна","Tue-Sun 10am-6 pm
+Monday closed",1800-1888,1,1,1,1,1,1,1,09:00:00,19:00:00
+"Дүнжингарав худалдааны төв, Экспресс АТМ","Dunjingarav Trade Center, Express ATM",atm,"26-р хороо, Дүнжингарав худалдааны төв, баруун жигүүр","Bayanzurkh district, 26th khoroo, Dunjingarav Trade Center ","Мягмар-Ням 10:00-19:30 цаг
+Даваа гариг амарна","Tue-Sun 10am-7:30 pm
+Monday closed",1800-1888,0,1,1,1,1,1,1,10:00:00,19:30:00
+Дэмчиг Хайрхан дэлгүүр,Demchig Khairkhan Mini Market ATM,atm,"Чингэлтэй дүүрэг, Шадивлан зуслангын уулзвар, Дэмчиг Хайрхан дэлгүүр ","Chingeltei district, Intersection of Shadvilan Camp, Demchig Mini Market
+",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12 pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+"Саруул зах, Экспресс АТМ","Saruul market, Express ATM",atm,"3-р хороо, 5-р хороолол, Нарны зам Саруул зах","Sukhbaatar district, 5-r khoroolol, Narnii zam, Saruul market",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+ЖМЖ худалдааны төв,GMG shopping center ,atm,"9-р хороо, Баянхошууны гудамж,  Жанцан буудлын ард, ЖМЖ худалдааны төв ","9th khoroo, Bayankhoshuu street, Jantsan bus station, GMG shopping center ",Даваа-Ням 08:00-20:00 цаг,Mon-Sun 8am-8pm,1800-1888,1,1,1,1,1,1,1,08:00:00,20:00:00
+"Жуков худалдааны төв, Экспресс АТМ","Jukov Market, Express ATM",atm,"4-р хороо, 15-р хороолол, Хилчдийн гудамж, Жуков худалдааны төв ","4th Khoroo, 15th Microdistrict, Khilchid Street, Jukov Market","Мягмар-Ням 09:00-21:00 цаг
+Даваа гариг амарна","Tue-Sun 9am-9pm
+Monday closed",1800-1888,0,1,1,1,1,1,1,09:00:00,21:00:00
+"Зайсан Миний дэлгүүр, Экспресс АТМ ","Zaisan Minii delguur, Express ATM ",atm,"11-р хороо, Зайсангийн гудамж Миний дэлгүүр","11st khoroo, Zaisan road, Minii delguur",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Зуун айл тооцооны төв, Экспресс АТМ","100 ail branch, Express ATM ",atm,"10-р хороо, Цагдаагийн гудамж, Хаш төв, Хас банк Зуун айл тооцооны төв","10th khoroo, Khash center, 100 ail branch Xacbank","Мягмар-Ням 09:00-19:00 цаг
+Даваа гариг амарна","Tue-Sun 9am-7pm
+Monday closed",1800-1888,0,1,1,1,1,1,1,09:00:00,19:00:00
+Зүтгүүрийн депо ажилчдад зориулсан ATM ,Depot station ATM for employee,atm,"3-р хороо, Нарны зам, Саруул зах замын урд, Зүтгүүрийн депо ","3-р хороо, Нарны зам, Саруул зах замын урд, Зүтгүүрийн депо ",Даваа-Ням 09:00-21:00 цаг,Mon-Sun 9am-9pm,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+Имарт Хороолол салбар АТМ,E-mart Solo ATM,atm,"13-р хороо, Ард Аюушийн өргөн чөлөө, Имарт Хороолол салбар","13rd khoroo, Ard Ayush avenue, E-mart ",Даваа-Ням 09:00-22:00 цаг,"Mon-Sun 9am-10pm
+",1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+"Имарт Чингис, Экспресс АТМ ","E-mart Chinggis, Express ATM",atm,"1-р хороо, 12-р хороолол, Токиогийн гудамж-23, Имарт Чингис 2-р давхарт","1st Khoroo, 12th Microdistrict, Tokyo Street, E-mart Chinggis 2nd floor",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Хангай хотхон Номин супермаркет ATM,Khangai town Nomin supermarket ATM,atm,"10-р хороо, Хангай хотхоны урд Азжаргал хотхон, Номин супермаркет","10th khoroo, infront of Khangai town, Azjargal town, Nomin supermarket ",Даваа-Ням 08:30-22:30 цаг,Mon-Sun 8:30am-10:30pm,1800-1888,1,1,1,1,1,1,1,08:30:00,22:30:00
+Их Монгол Good price АТМ,Good Price Ikh Mongol ATM,atm,"26-р хороо, Хүннүгийн гудамж, Их Монгол Good price","26th Khoroo, Khunnu Street, Good Price Ikh Mongol",Даваа-Ням 08:30-23:00 цаг,Mon-Sun 8:30am-12pm,1800-1888,1,1,1,1,1,1,1,08:30:00,23:00:00
+"Их монгол өргөтгөл, Экспресс банк АТМ","Ikh mongol branch, Express bank ATM",atm,"11-р хороо, Их монгол улсын гудамж, Их монгол Плаза, Хас банк Их монгол өргөтгөл ","11st khoroo, Ikh mongol plaza, Ikh mongol branch Xac bank ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Их монгол өргөтгөл, Экспресс банк","Ikh mongol branch, Express bank",atm,"11-р хороо, Их монгол улсын гудамж, Их монгол Плаза, Хас банк Их монгол өргөтгөл ","11st khoroo, Ikh mongol plaza, Ikh mongol branch Xac bank ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Миний дэлгүүр АТМ,Minii supermarket ATM,atm,"12-р хороо, 1-р хороолол, Москвагийн гудамж, Саппоро Миний сүлжээ дэлгүүр ","12th khoroo, 1st microdistrict, Sappora Minii supermarket ",Даваа-Ням 08:00-22:00 цаг,Mon-Sun 8am-10pm,1800-1888,1,1,1,1,1,1,1,08:00:00,22:00:00
+Миний дэлгүүр Шар хад АТМ,Minii Delguur-Shar Khad ATM,atm,"9-р хороо, Шар хадны эцэс, Миний сүлжээ дэлгүүр","9th Khoroo, Shar Khad, Minii Delguur",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Асайт-Миний дэлгүүр АТМ,Asait-Minii Delguur АТМ,atm,"22-р хороо, Б.Доржийн гудамж, Асайт худалдааны төв, Миний сүлжээ дэлгүүр ","22th Khoroo, B. Dorj Street, Asait Shopping Center, Minii Delguur",Даваа-Ням 08:00-23:00 цаг,"Mon-Sun 8am-11pm
+",1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+"Саппоро Миний дэлгүүр, Экспресс АТМ ","Sapporo Minii supermarket, Express ATM ",atm,"12-р хороо, 1-р хороолол, Москвагийн гудамж, Саппоро Миний сүлжээ дэлгүүр ","12th khoroo, 1st microdistrict, Sappora Minii supermarket ",Даваа-Ням 08:00-22:00 цаг,Mon-Sun 8am-10pm,1800-1888,1,1,1,1,1,1,1,08:00:00,22:00:00
+"Асайт Миний дэлгүүр, Экспресс АТМ ","Asait Minii Delguur, Express ATM",atm,"22-р хороо, Б.Доржийн гудамж, Асайт худалдааны төв, Миний сүлжээ дэлгүүр ","22th Khoroo, B. Dorj Street, Asait Shopping Center, Minii Delguur",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+"Шинэ сонголт тооцооны төв, Экспресс банк","Shine songolt branch, Express bank",atm,"ХУД, 3-р хороо, Шинэ сонголт худалдааны төв, Шинэ сонголт тооцооны төв ","3rd khoroo, Shine songolt shopping center, Shine songolt branch Xac bank ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Мишээл худалдааны төв, Экспресс АТМ",Misheel expo shopping center,atm,"2-р хороо, Чингисийн өргөн чөлөө, Мишээл худалдааны төв","2nd khoroo, Chinggis avenue, Misheel expo shopping center ",Даваа-Ням 09:00-19:00 цаг,Mon-Sun 9am78pm,1800-1888,1,1,1,1,1,1,1,09:00:00,19:00:00
+Монел фунтик хүнсний дэлгүүр АТМ,Monel Funtik Grocery Store АТМ,atm,"5-р хороо, Баруун Алтан-Өлгий гудамж, Монел фунтик хүнсний дэлгүүр ","5th Khoroo, Baruun Altan Ulgii Street, Monel Funtik Grocery Store ","5th Khoroo, Baruun Altan Ulgii Street, Monel Funtik Grocery Store ",Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+"Нарны хороолол М март, Экспресс АТМ","Narnii khoroolol M mart, Express ATM",atm,"3-р хороо,Нарны хороолол М март дэлгүүр ","3st khoroo, narnii khoroolol M mart",Даваа-Ням 09:00-21:00 цаг,Mon-Sun 9am-21pm,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+"Эмээлт Шонхор төв, Экспресс АТМ","Emeelt Shonkhor center, Express ATM",atm,"32-р хороо, Эмээлт зам, Хүй 7 худаг явах замд, Шонхор төв ","32 khoroo, Emeelt road, Emeelt Shonkhor center",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+"Нарантуул-2 зах, Экспресс АТ М","Narantuul 2 market, Express ATM ",atm,"12-р хороо, Дэнжийн 1000 гудамж, Нарантуул-2 зах ","12 khoroo, Denjiin 1000 road, Narantuul 2 market ","Мягмар-Ням 08:00-19:00 цаг
+Даваа гариг амарна","Tue-Sun 8am-7pm
+Monday closed",1800-1888,0,1,1,1,1,1,1,08:00:00,19:00:00
+Мишээл Вокинг стрийт АТМ,Misheel Center Walking street АТМ,atm,"19-р хороо, Чингисийн өргөн чөлөө, Мишээл Вокинг стрийт",19th Misheel Center Walking street,Даваа-Ням 08:00-22:00 цаг,Mon-Sun 8am-10pm,1800-1888,1,1,1,1,1,1,1,08:00:00,21:00:00
+Нисдэг машин авто худалдааны төв,Nisdeg mashin auto market ,atm,"5-р хороо, Их тойруу, Тасганы овоо зүүн талд Нисдэг машин авто худалдааны төв","5th khoroo, Ikh toiruu, Nisdeg mashin autom market ",Даваа-Ням 10:00-19:00 цаг,Mon-Sun 10am-7pm,1800-1888,1,1,1,1,1,1,1,10:00:00,19:00:00
+Нисэх тооцооны төв АТМ,Nisekh branch ATM,atm,"16-р хороо, Баруун Сонсголонгийн гудамж, Хас банк Нисэх тооцооны төв ","16th khoroo, Wes Sonsgolon street, Nisekh branch Xac bank",Даваа-Ням 7:00-24:00 цаг,Mon-Sun 7am-12pm,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+Номин Их Дэлгүүр АТМ,Nomin department store АТМ,atm,"14-р хороо, 3-р хороолол, Ард Аюушийн өргөн чөлөө, Өргөө кино театр зүүн талд Номин их дэлгүүр ","14th khoroo, 3rd microdistrict, Nomin department store ",Даваа-Ням 8:30-22:30 цаг,Mon-Sun 8:30am-10:30pm,1800-1888,1,1,1,1,1,1,1,08:30:00,22:30:00
+"Номин супермаркет, Экспресс АТМ ","Nomin supermarket, Express ATM  ",atm,"11-р хороо, Ривер Стрийт Номин супермаркетт","11st khoroo, River street, Nomin supermarket ",Даваа-Ням 9:00-22:00 цаг,Mon-Sun 9am-10pm,,1,1,1,1,1,1,1,09:00:00,23:59:00
+Органик зах,Organic market ,atm," 2-р хороо, Улаанбаатар сувиллын баруун талд, Органик зах"," 2nd khoroo, West of Ulaanbaatar sanatorium, Organic market ",Даваа-Ням 08:00-20:00 цаг,Mon-Sun 8am-8pm,1800-1888,1,1,1,1,1,1,1,08:00:00,20:00:00
+Харгуйжин хүнс барааны зах,Kharguijin market ,atm,"13-р хороо, Хайлааст, Оргил хүнсний  дэлгүүр","13 khoroo, Khailaast, Orgil supermarket ",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+Орд дэлгүүр ,Ord supermarket,atm,"15-р хороо, Шарга морьт гүүр, Орд хүнсний дэлгүүр","15th khoroo, Sharga morit, Ord supermarket ",Даваа-Ням 08:00-23:00цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Отгонтэнгэр хүнсний дэлгүүр АТМ,Otgontenger grocery store АТМ,atm,"21-р хоро, Дарь Эхийн шинэ буудал,  Отгонтэнгэр хүнсний дэлгүүр","21th Khoroo, New Dari Ikh Station, Otgontenger Grocery Store",Даваа-Ням 09:00-24:00цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+"Өгөөж зах, Экспресс АТМ","Uguuj market, Express ATM ",atm,"10-р хороо, Баянхошууны гудамж,  Баянхошуу эцсийн буудал, Өгөөж зах","10th khoroo, End of the Bayankhoshuu bus station, Uguuj market ",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+"Рапид мед эмнэлэг, Экспресс АТМ","Rapid Med Hospital, Express ATM",atm,"14-р хороо, Халдварт өвчин судлалын үндэсний төвийн зүүн талд, Рапип Мед эмнэлэг ","14th Khoroo, Eastern side of National Center for Communicable Diseases, Rapid Med Hospital",Даваа-Ням 10:00-19:00 цаг,Mon-Sun 10am-7pm,1800-1888,1,1,1,1,1,1,1,10:00:00,19:00:00
+Саммит зочид буудал  АТМ,Summit hotel АТМ,atm,"7-р хороо, 4-р хорооллын эцэс ГССҮТөвийн хойно Саммит зочид буудал ","7th khoroo, End of 4th microdistrict, Summit hotel ",Даваа-Ням 8:00-24:00 цаг,Mon-Sun 8am-12pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+"Сандэй худалдааны төв, Экспресс АТМ","Sunday Shopping Center, Express ATM",atm,"14-р хороо, Намъянжүгийн гудамж, Сандэй худалдааны төв","14th Khoroo, Namyanju Street, Sunday Shopping Center","Мягмар-Ням 10:00-21:00 цаг
+Даваа гариг амарна","Tue-Sun 10am-9pm
+Monday closed",1800-1888,0,1,1,1,1,1,1,10:00:00,21:00:00
+"Сансар зах, Экспресс АТМ","Sansar market, Express ATM",atm,"7-р хороо, Б.Доржийн гудамж, КТМС зүүн чиглэлийн буудлын урд, Сансар зах  
+","7th Khoroo, B. Dorj Street, Computer Information Technology University, Sansar Market","Даваа-Ням 10:00-20:00 цаг
+Лхагва гариг амарна","Mon-Sun 10am-8pm
+Wednesday closed",1800-1888,1,1,0,1,1,1,1,10:00:00,20:00:00
+"Сансар салбар, Экспресс банк АТМ","Sansar Branch, Express Bank АТМ",atm,"3-р хороо, Энхтайваны өргөн чөлөө, Зүүн 4 зам, Хас банк Сансар салбар  
+","3rd Khoroo, Enkhtaivan Avenue, Eastern 4 zam, XacBank Sansar Branch",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+Болор таац АТМ,Bolor taats АТМ,atm,"3-р хороо, Толгойт их нарангын эцэст байрлах “Болор таац” худалдаа, үйлчилгээний төв","3 th Khoroo, Songinokhairkhan Point, Bolor taats Supermarket",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+Сансар супермаркет АТМ,Sansar Supermarket АТМ,atm,"20-р хороо, Товчооны зам, Сансар сүлжээ супермаркет ","11th Khoroo, Bayanzurkh Point, Eastern side of Petrovis Gas Station, Sansar Supermarket",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,,1,1,1,1,1,1,1,09:00:00,23:59:00
+Сансар супермаркет АТМ,Sansar Supermarket АТМ,atm,"4-р хороо, Наадамчдын зам, Яармаг, Сансар сүлжээ дэлгүүр ","4th khoroo, Naadamchdiin road, Yarmag, Sansar supermarket ",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+"Содон хороолол, Экспресс АТМ","Sodon, Express ATM  ",atm,"6-р хороо, Үйлдвэрчний эвлэлийн гудамж, Содон хороолол, Сансар сүлжээ супермаркет","6th khoroo, Sodon khoroolol, Sansar supermarket",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Саямаа зах АТМ,Sayamaa market АТМ,atm,"9-р хороо, Баруун Сонсголонгийн гудамж, Нисэх Саямаа зах "," 9th khoroo, West Sonsgolon street, Nisekh Sayamaa market ",Даваа-Ням 08:00-20:00 цаг,Mon-Sun 8am-8pm,1800-1888,1,1,1,1,1,1,1,08:00:00,20:00:00
+Соёмбо зах АТМ,Soyombo market АТМ,atm,"14-р хороо, Бэлхийн зам, Дарь-Эхийн уулзвар, Соёмбо зах "," 14th khoroo, Belkh road, Dari-Ekh, Soyombo market 
+",Даваа-Ням 08:00-21:00 цаг,Mon-Sun 8am-9pm,1800-1888,1,1,1,1,1,1,1,08:00:00,21:00:00
+Стар караоке АТМ,Star karaoke АТМ,atm,"2-р хороо, Нарангийн гудамж, Толгойт, Стар караоке"," 2nd khoroo, Narangiin road, Tolgoit, Star karaoke ",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+Сутай дээд сургууль АТМ,Sutai University АТМ,atm,"5-р хороо, Энхтайвны өргөн чөлөө, Кино үйлдвэр, Сутай дээд сургууль "," 5th Khoroo, Enkhtaivan Avenue, Kino Uildver, Sutai University",Даваа-Ням 09:00-21:00 цаг,Mon-Sun 9am-9pm,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+Сүхбаатар дүүргийн эрүүл мэндийн төв АТМ,Health center of Sukhbaatar district АТМ,atm,"11-р хороо, Цагдаагийн гудамж, 100 айл, Сүхбаатар дүүргийн эрүүл мэндийн төв"," 11th khoroo, 11th microdistrict, 100 ail, Health center of Sukhbaatar district",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+Таац хүнсний дэлгүүр АТМ,Taats supermarket АТМ,atm,"7-р хороо, Баянхошуу тоосгоны үйлдвэр, Хилчин хотхон, Таац хүнсний дэлгүүр","7th khoroo, Khilchin town, Taats supermarket",Даваа-Ням 08:00-24:00 цаг,Mon-Sun 8am-12pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Тахилт Буудай дэлгүүр АТМ,Takhilt Buudai delguur АТМ,atm,"33-р хороо, Тахилт Буудай дэлгүүр"," 33th khoroo, Takhilt, Buudai delguur",Даваа-Ням 08цаг-23цаг,2023-01-19T14:39:06,1800-1888,1,1,1,1,1,1,1,07:00:00,22:59:00
+"Сутайн буянт техникийн зах, Экспресс банк  АТМ","Sutain buyant zakh,Express bank АТМ",atm,"18-р хороо, Москвагийн гудамж, Сутайн буянт техникийн зах","18th khoroo, Moscow road, Sutain buyant zakh",Даваа-Ням 9-18 цаг,Mon-Sun 9-18 hour,1800-1888,1,1,1,1,1,1,1,09:00:00,17:59:00
+Таван эрдэнэ зах АТМ,Tavan-Erdene market АТМ,atm,"19-р хороо, 4-р хороолол, Алтан төгрөг дэлгүүрийн урд Таван Эрдэнэ хүнсний зах","19th khoroo, 4th microdistrict, Tavan-Erdene market ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Танил хүнсний дэлгүүр АТМ,Tanil supermarket АТМ,atm,"7-р хороо, Баянхошууны гудамж, Танил хүнсний дэлгүүр ","7th khoroo, Bayankhoshuu street, Tanil supermarket",Даваа-Ням 09:00-23:00 цаг,Mon-Sun 9am-11pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+"Теди төв, Экспресс АТМ","Tedy center, Express ATM ",atm,"5-р хороо, Баруун сэлбийн гудамж, Теди төв 3-р давхарт","5th khoroo, West selbe street, Tedy center, 3nd floor ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Теди-2 центр, Экспресс АТМ","Tedy 2 center, Express ATM ",atm,"14-р хороо, 3-р хороолол, Л.Энэбишийн өргөн чөлөө, Теди 2 центр","14th khoroo, 3rd microdistrict, L.Enebish avenue, Tedy 2 center",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+"Төв талбай салбар, Экспресс банк АТМ","Central square branch, Express bank АТМ",atm,"8-р хороо, Ерөнхий сайд Амарын гудамж, Сүхбаатарын талбайн зүүн талд, Хас банк Төв талбай салбар","8th khoroo, East of Sukhbaatar square, Central square branch",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+Дарь-Эх Цэхээ төв АТМ,Dari-Ekh Tsehee tuv АТМ,atm,"21-р хороо, Дарь-Эх Цэхээ төв ","21th khoroo, Dari-Ekh Tsekhee center ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,21:59:00
+"Монгол даатгал, Төв салбар АТМ	","Mongol insurance, Central branch АТМ",atm,"1-р хороо, Энхтайваны өргөн чөлөө, Хас банк Төв салбар","1st khoroo, Peace avenue, Mongol daatgal building, Sukhbaatar branch Xac bank ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Толгойт Гүнгэрваа Миний сүлжээ дэлгүүр АТМ,Tolgoit Gungervaa Minii delguur АТМ,atm,"2-р хороо, Толгойт Нарангын гол","2th khoroo, Tolgoit narangiin gol",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+"Тумбааш тооцооны төв, Экспресс АТМ ","Tumbaash branch, Express ATM ",atm,"15-р хороо, 3-р хороолол, Л.Энэбишийн өргөн чөлөө, Хас банк Тумбааш тооцооны төв","15th khoroo, 3rd microdistrict, Tumbaash branch Xac bank ",Даваа-Ням 06:00-24:00 цаг,Mon-Sun 6am-12pm,1800-1888,1,1,1,1,1,1,1,06:00:00,23:59:00
+Тумбааш төв АТМ,Tumbaash center  АТМ,atm,"7-р хороо, Баянхошуу хуучин эцэс автобусны буудал, Тумбааш төв","7th khoroo, Bayankhoshuu old bus station, Tumbaash center",Даваа-Ням 08:00-20:00 цаг,Mon-Sun 8am-8pm,1800-1888,1,1,1,1,1,1,1,08:00:00,20:00:00
+"Тумбааш төв, Экспресс АТМ","Tumbaash center, Express ATM ",atm,"7-р хороо, Баянхошуу хуучин эцэс автобусны буудал, Тумбааш төв","7th khoroo, Bayankhoshuu old bus station, Tumbaash center",Даваа-Ням 08:00-20:00 цаг,Mon-Sun 8am-8pm,1800-1888,1,1,1,1,1,1,1,08:00:00,20:00:00
+"Түшиг салбар, Экспресс банк АТМ","Tushig branch, Express bank АТМ",atm,"4-р хороо, Сөүлийн гудамж, Түшиг их дэлгүүр, Хас банк Түшиг салбар ","4th khoroo, Seoul road, Tushig branc Xac bank",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+Тэнгис кино театр АТМ,Tengis movie theater АТМ,atm,"5-р хороо, Ж.Самбуугийн гудамж, Тэнгис кино театр ","5th khoroo, J.Sambuu street, Tengis movie theater ",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+"Тэнгэр плаза худалдааны төв, АТМ",Tenger Plaza Shopping Center АТМ,atm,"8-р хороо, Тэнгэр плаза худалдааны төв, ","8th Khoroo, Tenger Plaza Center",Даваа-Ням 08:00-24:00 цаг,Mon-Sun 8am-12pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Улиастай шар дэлгүүр АТМ,Uliastai Shar market АТМ,atm,"8-р хороо, Тэнгэр плаза худалдааны төв, ","8th Khoroo, Tenger Plaza Center",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Урьхан хүнсний дэлгүүр  АТМ,Urikhan supermarket  АТМ,atm,"25-р хороо, Зүүнсалаа хуучин эцсийн буудал, Зүүнсалаа, Урьхан хүнсний дэлгүүр ","25th khoroo, Zuunsalaa old bus station, Urikhan supermarket ",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Хайлааст 84 худалдааны төв АТМ,Khailaast 84 shopping center АТМ,atm,"15-р хороо, Хайлааст хуучин эцэс, 84 худалдааны төв ","15th khotoo, Khailaast old bus station, 84 shoppng center ",Даваа-Ням 09:00-23:00 цаг,Mon-Sun 9pm-11pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+Халдвартын эмнэлэг захиргааны байр АТМ,Infectious hospital administration building АТМ,atm,"14-р хороо, Халдварт өвчин судлалын үндэсний төв","14th Khoroo, Infectious hospital administration building ",Даваа-Ням 08:00-24:00 цаг,Mon-Sun 8pm-12pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Хан талст худалдааны төв АТМ,Khan Talst Shopping Center АТМ,atm,"6-р хороо, 13-р хороолол, Баянзүрх зах","6th Khoroo, 13th Microdistrict, Bayanzurkh Market","Даваа-Ням 09:00-19:00 цаг
+Пүрэв амрана","Mon-Sun 9pm-19pm
+Thu closed",1800-1888,1,1,1,0,1,1,1,09:00:00,19:00:00
+"Хан-Уул тооцооны төв, Экспресс банк АТМ","Khan-Uul branch, Express bank  АТМ",atm,"2-р хороо, Чингисийн өргөн чөлөө, Хан-Уул дүүрэг соёлын ордон зүүн талд, Хас банк Хан-Уул тооцооны төв ","2nd khoroo, Chinggis avenue, Khan-Uul branch Xac bank ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+"Хан-Уул тооцооны төв, Экспресс банк АТМ","Khan-Uul branch, Express bank  АТМ",atm,"2-р хороо, Чингисийн өргөн чөлөө, Хан-Уул дүүрэг соёлын ордон зүүн талд, Хас банк Хан-Уул тооцооны төв ","2nd khoroo, Chinggis avenue, Khan-Uul branch Xac bank ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+"Хархорин зах, Экспресс АТМ","Kharkhorin market, Express ATM",atm,"20-р хороо,1-р хороолол, Москвагийн гудамж, Хархорин зах В1 давхарт ","20th khoroo, 1st microdisrict, Moscow road, Kharkhorin market, B1 floor ","Мягмар-Ням 09:00-19:00 цаг
+Даваа амрана","Tue-Sun 9pm-19pm
+Mon closed",1800-1888,0,1,1,1,1,1,1,09:00:00,19:00:00
+ХИД 2 худалдааны төв  АТМ,Khid 2 shopping center  ATM,atm,"2-р хороо, Хатанбаатар Магсаржавын гудамж, Варьете төвийн хойд талд ХИД 2 худалдааны төв ","2nd khoroo, North of Variete center, Khid 2 shopping center ",Мягмар-Ням 09:30-21:00 цаг,Tue-Sun 9:30pm-9pm,1800-1888,1,1,1,1,1,1,1,09:30:00,21:00:00
+"Хосбагана дэлгүүр, Экспресс АТМ","Khosbagan market, Express ATM",atm,"9-р хороо, Шар хадны гудамж, Хос багана хүнсний дэлгүүр","9th Khoroo, Shar Khad Street, Khos Bagana Market",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8pm-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Хотхойт дэлгүүр  АТМ,Khotkhoit supermarket  ATM,atm,"22-р хороо, Тахилтын эцсийн буудал, Тахилт Хотхойт хүнсний дэлгүүр","22nd khoroo, Takhilt last bus station, Khotkhoit supermarket",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8pm-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Хөтөл төв  АТМ,Khutul center ATM,atm,"11-р хороо, Хувьсгалын зам, Баянхошуу Хөтөл төв","11st khoroo, Khuvisgal road, Bayakhoshuu Khutul center",Даваа-Ням 10:00-23:00 цаг,Mon-Sun 10pm-11pm,1800-1888,1,1,1,1,1,1,1,10:00:00,23:00:00
+"Хүсэл төв, Экспресс АТМ","Khusel center, Express ATM",atm,"14-р хороо, Чингэлтэй өргөн чөлөө, Долоон буудал, Хүсэл төв","14th khoroo, Chingeltei avenue, 7th station, Khusel center ",Даваа-Ням 10:00-24:00 цаг,Mon-Sun 10pm-12pm,1800-1888,1,1,1,1,1,1,1,14:12:00,14:12:00
+"Хүчит шонхор тооцооны төв, Экспресс банк АТМ","Khuchirshonkhor branch, Express bank  ATM",atm,"11-р хороо, Самбалхүндэвийн зам, Хүчитшонхор хүнсний зах","11st khoroo, Sambalkhundev road, Khuchitshonkhor market",Даваа-Ням 06:00-17:00 цаг,Mon-Sun 6am-5pm,1800-1888,1,1,1,1,1,1,1,06:00:00,17:00:00
+"Хүчит шонхор тооцооны төв, Экспресс банк АТМ","Khuchitshonkhor branch, Express bank  ATM",atm,"11-р хороо, Самбалхүндэвийн зам, Хүчитшонхор хүнсний зах","11st khoroo, Sambalkhundev road, Khuchitshonkhor market",Даваа-Ням 06:00-17:00 цаг,Mon-Sun 6am-5pm,1800-1888,1,1,1,1,1,1,1,06:00:00,17:00:00
+Хүчитшонхор хүнсний зах АТМ,Khuchitshonkhor market  ATM,atm,"11-р хороо, Самбалхүндэвийн зам, Хүчитшонхор хүнсний зах","11st khoroo, Sambalkhundev road, Khuchitshonkhor market",Даваа-Ням 06:00-17:00 цаг,Mon-Sun 6am-5pm,1800-1888,1,1,1,1,1,1,1,06:00:00,17:00:00
+"Цайз тооцооны төв, Экспресс АТМ","Tsaiz Branch, Express ATM",atm,"16-р хороо, Дандарбаатарын гудамж, Цайз тооцооны төвийн байр","16th Khoroo, Dandarbaatar Street, Tsaiz Branch",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,06:00:00,23:59:00
+"Баялаг ундраа худалдааны төв, АТМ",Baylag Undraa Shopping Center ATM,atm,"14-р хороо, Нарны зам, Баялаг ундраа худалдааны төв","14th Khoroo, Narnii road, Baylag Undraa Shopping Center","Лхагва-Ням 08:00-20:00 цаг
+Мягмар гаригт амрана","Wed-Sun 8am-8pm
+Tue closed",1800-1888,1,1,0,1,1,1,1,08:00:00,20:00:00
+Цэнхэр дэлгүүр АТМ,Tsenher supermarket  ATM,atm,"1-р хороо, Нарангийн гудамж, Нарангийн гол хуучин эцсийн буудал, Толгойт, Цэнхэр дэлгүүр ","1st khoroo,Tolgoit, Narangiin gol old bus station, Tsenher supermarket ",Даваа-Ням 09:00-23:00 цаг,Mon-Sun 9am-11pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+"Баянгол салбар, Экспресс банк  АТМ","Bayangol branch, Express bank АТМ",atm,"13-р хороо, Ард Аюушийн өргөн чөлөө, Имарт Хороолол салбар, Хас банк Баянгол салбар","13rd khoroo, 4th microdistrict, Ard Ayush avenue, Bayangol branch Xac bank",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+10-р хороолол Ноёд АТМ,10th microdistrict Noyod АТМ,atm,"6-р хороо, 10-р хороолол, Энхтайваны өргөн чөлөө, Ноёд дэлгүүр","6-р хороо, 10-р хороолол, Энхтайваны өргөн чөлөө",Даваа-Ням 08-22 цаг,Mon-Sun 08-22 hour,1800-1888,1,1,1,1,1,1,1,08:00:00,21:59:00
+Хархорин зах АТМ,Kharkhorin market АТМ,atm,"20-р хороо, 1-р хороолол, Москвагийн гудамж, Хархорин зах ","20th khoroo, 1st microdisrict, Moscow road, Kharkhorin market","Мягмар-Ням 09:00-19:00 цаг
+Даваа амрана","Tue-Sun 9am-7pm
+Monday closed",1800-1888,0,1,1,1,1,1,1,09:00:00,19:00:00
+"Гранд плаза  , Экспресс АТМ ","Grand plaza, Express ATM ",atm,"2-р хороо, Гранд плаза, В1 давхарт","2nd khoroo, Grand plaza",Даваа-Ням 10:00-21:00 цаг,Mon-Sun 10am-21pm,1800-1888,1,1,1,1,1,1,1,10:00:00,21:00:00
+"Баянмонгол тооцооны төв, Экспресс банк АТМ","Bayanmongol Branch, Express ATM",atm,"26-р хороо, Хүннүгийн гудамж, Элизабет хотхон, Хас банк Баянмонгол тооцооны төв ","26-р хороо, Хүннүгийн гудамж, Элизабет хотхон, Хас банк Баянмонгол тооцооны төв ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Их-Орд тооцооны төв АТМ,Ikh Ord Branch АТМ,atm,"14-р хороо, Намъянжүгийн гудамж, Их Орд худалдааны төв,  Хас банк Ир Орд тооцооны төв ","14th Khoroo, Namyanju Street, Ikh Ord Shopping Center, XacBank Ikh Ord Branch",Даваа-Ням 09:00-19:00 цаг,Mon-Sun 9am-7pm,1800-1888,1,1,1,1,1,1,1,09:00:00,19:00:00
+Цайз тооцооны төв АТМ,Tsaiz Branch АТМ,atm,"16-р хороо, Дандарбаатарын гудамж, Цайз тооцооны төвийн байр","16th Khoroo, Dandarbaatar Street, Tsaiz Branch",Даваа-Ням 24 цаг,Даваа-Ням 24 цаг,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Сансар салбар, Экспресс банк  АТМ","Sansar Branch, Express Bank АТМ",atm,"3-р хороо, Энхтайваны өргөн чөлөө, Зүүн 4 зам, Хас банк Сансар салбар","3-р хороо, Энхтайваны өргөн чөлөө, Зүүн 4 зам, Хас банк Сансар салбар",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Их тойруу Худалдааны төв АТМ,Ikh toiruu khudaldaanii tuv АТМ,atm,"9-р хороо,Дөлгөөн нуур, Их тойруу худалдааны төв ","9st Khoroo, Ikh toiruu, market",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Элбэг хүнсний дэлгүүр АТМ,Elbeg supermarket АТМ,atm,"28-р хороо, 112-р дунд сургуулийн хойно, Элбэг хүнсний дэлгүүр ","28th khoroo, North of 112 highschool, Elbeg supermarket",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Кар комплекс АТМ,Car complex АТМ,atm,"5-р хороо, 5 шар Кар комплекс ","5 khoroo, 5 shar Car complex",Mon-Sun 9am-8pm,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Сонгино Хайрхан дүүргийн ЗДТГбайр АТМ,Songinokhairkhan district АТМ,atm,Сонгино хайрхан дүүрэг ЗДТГбайр ,Songinokhairkhan district,Даваа-Бямба 08:00-20:00 цаг,Mon-Sat 8am-8pm,1800-1888,1,1,1,1,1,1,0,08:00:00,20:00:00
+IRON хүнсний дэлгүүр АТМ,IRON хүнсний дэлгүүр АТМ,atm,"6-р хороо, Ханын материалын эцэс, IRON хүнсний дэлгүүр","6th khoroo, Iron supermarket ",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+NG хүнсний дэлгүүр  АТМ,NG supermarket  АТМ,atm,"2-р хороо, Толгойт, Нарангийн голын шинэ эцсийн буудал, NG хүнсний дэлгүүр  ","2nd khoroo, Narangiin gol new bus station, NG supermarket ",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Драгон 1 цэгийн үйлчилгээ  АТМ,Dragon 1 point service centerАТМ,atm,"17-р хороо, Драгон 1 цэгийн үйлчилгээний төв ","17th khoroo, Dragon 1 point service center","Даваа-Ням 09:00-18:00 цаг
+Бямба, Ням амарна","Mon-Sun 9am-6pm
+Sat-Sun closed",1800-1888,1,1,1,1,1,0,0,09:00:00,18:59:00
+Фермер зах АТМ,Farmet market АТМ,atm,"4-р хороо, Яармаг Фермерүүд зах","4th khoroo, Yarmag, Farmer market ",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+"Сансар салбар, Экспресс банк АТМ","Sansar Branch, Express Bank АТМ",atm,"3-р хороо, Энхтайваны өргөн чөлөө, Зүүн 4 зам, Хас банк Сансар салбар","3rd Khoroo, Enkhtaivan Avenue, Eastern 4 zam, XacBank Sansar Branch",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,07:00:00,23:59:00
+"Түшиг салбар, Экспресс банк АТМ","Tushig branch, Express bank АТМ",atm,"4-р хороо, Сөүлийн гудамж, Түшиг их дэлгүүр, Хас банк Түшиг салбар ","4th khoroo, Seoul road, Tushig branc Xac bank",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,06:00:00,23:59:00
+"Өнөр тооцооны төв, Экспресс банк АТМ","Unur branch, Express bank АТМ",atm,"17-р хороо, 1-р хороолол, Москвагийн гудамж, 32-р байрны урд, Хас банк Өнөр тооцооны төв ","17th khoroo, 1st microdistrict, Unur branch Xac bank ",Даваа-Ням 06:00-24:00 цаг,Mon-Sun 6am-12pm,1800-1888,1,1,1,1,1,1,1,06:00:00,23:59:00
+"Баян худалдааны төв, Экспресс АТМ ","Bayan shopping center, Express ATM ",atm,"Орхон аймаг, Баян-Өндар сум, Уурхайчин баг, Баян худалдааны төв","Orkhon province, Bayan-Undur, Byan shopping center",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:20:00,20:00:00
+"Дархан зах, Экспресс АТМ","Darkhan market, Express ATM ",atm,"Дархан-Уул аймаг, Дархан сум, 8-р баг, Дархан зах худалдааны төв","Darkhan-Uul province, Darkhan, Darkhan market ","Мягмар-Ням 09-19 цаг
+Даваа амрана","Tue-Sun 9am-7pm
+Mon closed",1800-1888,0,1,1,1,1,1,1,00:00:00,23:59:00
+"Хэрлэн худалданы төв, Экспресс АТМ","Kherlen shopping center, Express ATM ",atm,"Багануур дүүрэг, 1-р хороо, Нацагдоржийн гудамж, Хэрлэн худалдааны төв  ","1st khoroo, Natsgdorj street, Kherken shopping center",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Дархан их дэлгүүр, Экспресс АТМ",Darkhan depatrment store. Express ATM ,atm,"Дархан-Уул аймаг, Дархан сум, 14-р баг, Дархан их дэлгүүр","Darkhan-Uul province, Darkhan, Darkhan department store",Даваа-Ням 08:30-22:00 цаг,Mon-Sun 8:30am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+"Дархан плаза, Экспресс АТМ","Darkhan plaza, Express ATM ",atm,"Дархан-Уул аймаг, Дархан сум, 7-р баг, Дархан плаза","Darkhan-Uul province, Darkhan, Darkhan plaza ",Даваа-Ням 09:00-19:00 цаг,Mon-Sun 9am-7pm,1800-1888,1,1,1,1,1,1,1,09:00:00,19:00:00
+"Эрдэнэс плаза, Экспресс АТМ","Erdenes plaza, Express ATM ",atm,"Дархан-Уул аймаг, Дархан сум, 13-р баг, Эрдэнэс плаза ","Darkhan-Uul province, Darkhan, Erdenes plaza ",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+"Олон улсын худалдааны төв, Экспресс АТМ","International shopping center, Express ATM ",atm,"Дархан-Уул аймаг, Дархан сум, 12-р баг, Олон улсын худалдааны төв","Darkhan-Uul province, Darkhan, International shopping center","Даваа-Ням 09:00-20:00 цаг
+Лхагва амрана","Mon-Sun 9am-8pm
+Wed closed",1800-1888,1,1,0,1,1,1,1,09:00:00,20:00:00
+"Есөн Эрдэнэ худалдааны бөөний төв, Экспресс банк АТМ","Esun-Erdene market, Express ATM ",atm,"Орхон аймаг, Баян-Өндөр сум, Оюут баг, Есөн Эрдэнэ худалдааны бөөний төв","Orkhon province, Bayan-Undur, Oyut, Esun Erdene market ",Даваа-Ням 09:30-19:30 цаг,Mon-Sun 9:30am-7:30pm,1800-1888,1,1,1,1,1,1,1,09:30:00,19:30:00
+"Хангай бүс худалдааны  төв, Экспресс АТМ","Khangai region shopping center, Express ATM  ",atm,"Орхон аймаг, Баян-Өндар сум, Уурхайчин баг, Хангай бүсийн худалдааны төв ","Orkhon province, Bayan-Undur, Uurkhaichin, Khangai region shopping center","Мягмар-Ням 09-19 цаг
+Даваа амрана","Tue-Sun 9am-7pm
+Mon closed",1800-1888,0,1,1,1,1,1,1,09:00:00,19:00:00
+"Сэлэнгэ салбар, Экспресс АТМ","Selenge branch, Express ATM ",atm,"Сэлэнгэ аймаг, Сүхбаатар сум, 6-р баг, Хас банк Сэлэнгэ салбар ","Selenge province, Sukhbaatar, Xac bank Selenge branch",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Олон улсын худалдааны төв, Экспресс АТМ","International shopping center, Express ATM ",atm,"Сэлэнгэ аймаг, Сүхбаатар сум, 2-р баг, Олон улсын худалдааны төв ","Selenge province, Sukhbaatar, International shopping center",Даваа-Ням 09-19 цаг,Mon-Sun 9am-7pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+"Өвөрхангай салбар, Экспресс АТМ","Uvurkhangai, Express ATM ",atm,"Өвөрхангай аймаг, Арвайхээр сум, Хас банк Өвөрхангай салбар ","Uvurkhangai province, Arvaikheer, Xac bank Uvurkhangai branch ",Даваа-Ням 09:00-17:30 цаг,Mon-Sun 9am-5:30pm,1800-1888,1,1,1,1,1,1,1,09:00:00,17:30:00
+"Түшиг төв, Экспресс АТМ","Tushig center, Express ATM ",atm,"Өвөрхангай аймаг, Арвайхээр сум, 5-р баг, Түшиг төв","Uvurkhangai province, Arvaikheer, Tushig center","Даваа-Ням 09-19:30 цаг
+Бямба амрана","Mon-Sun 9am-7:30pm
+Saturday closed",1800-1888,1,1,1,1,1,0,1,09:00:00,19:30:00
+"Хархорин тооцооны төв, Экспресс АТМ","Kharkhorin branch, Express ATM ",atm,"Uvurkhangai province, Kharkhorin, Erdenezuu street, Xac bank Kharkhorin branch","Uvurkhangai province, Kharkhorin, Erdenezuu street, Xac bank Kharkhorin branch",Даваа-Ням 09:00-18:00 цаг,Mon-Sun 9am-6pm,1800-1888,1,1,1,1,1,1,1,09:00:00,18:00:00
+"Хасу худалдааны төв, Экспресс АТМ","Khasy shopping center, Express ATM",atm,"Архангай аймаг, Эрдэнэбулган сум, 3-р баг, Хасу худалдааны төв","Arkhangai province, Erdenebulgam sum, Khasu shopping center","Даваа-Бямба 09-21 цаг
+Ням амрана","Mon-Sat 9am-9pm
+Sanday closed",1800-1888,1,1,1,1,1,1,0,09:00:00,21:00:00
+"Завхан салбар, Экспресс АТМ","Zavkhan branch, Express ATM",atm,"Завхан аймаг, Улиастай сум, Жинст баг, Хас банк Завхан салбар","Zavkhan province, Uliastai, Jinst, Xac bank Zavkhan branch",Даваа-Бямба 08:00-23:00 цаг,Mon-Sat 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+"Баруун бүс худалдааны төв, Экспресс АТМ ","Western region shopping center, Express ATM ",atm,"Завхан аймаг, Улиастай сум, Богдын гол баг, Баруун бүс худалдааны төв","Zavkhan province, Uliastai, Bogdiin gol, Western region shopping center ",Даваа-Бямба 09:00-20:00 цаг,Mon-Sat 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Хөвсгөл Эрхэс худалдааны төв, Экспресс АТМ","Khuvsgul Erkhes market, Express ATM ",atm,"Хөвсгөл аймаг, Мөрөн сум, 4-р баг, Эрхэс Худалдаа үйлчилгээний төв ","Khuvsgul province, Murun, Erkhes market branch",Даваа-Ням 09:00-23:00 цаг,Mon-Sun 9am-23pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+"Хөвсгөл салбар, Экспресс АТМ","Khuvsgul branch, Express ATM ",atm,"Хөвсгөл аймаг, Мөрөн сум, 8-р баг, Хас банк Хөвсгөл салбар ","Khuvsgul province, Murun, Xac bank Khuvsgul branch",Даваа-Ням 24/7 цаг,Mon-Sun 24/7,1800-1888,1,1,1,1,1,1,1,00:00:00,00:00:00
+"UBM төв, Экспресс АТМ","UBM center, Express ATM",atm,"Хөвсгөл аймаг, Мөрөн сум, 8-р баг, Хас банк Хөвсгөл салбар ","Khuvsgul province, Murun, UBM shopping center",Даваа-Ням 09:00-17:00 цаг,Mon-Sun 9am-5pm,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Шилэн зах, Экпресс АТМ ","Shilen market, Express ATM ",atm,"Говь-Алтай аймаг, Есөнбулаг сум, 8-р баг, Шилэн зах","Govi-Altai province, Esunbulag, Shilen market",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Мэргэн-2 супермаркет, Экспресс АТМ ","Mergen 2 supermarket, Express ATM ",atm,"Баянхонгор аймаг, Баянхонгор сум, 1-р баг, Мэргэн 2 супермаркет ","Bayanlkhongor province, Bayankhongor, Mergen 2 supermarket",Даваа-Ням 07:30-23:00 цаг,Mon-Sun 7:30am-11pm,1800-1888,1,1,1,1,1,1,1,07:30:00,23:00:00
+"Баруун бүс худалдааны төв, Экспресс АТМ ","Western region shopping center, Express ATM ",atm,"Баянхонгор аймаг, Баянхонгор сум, 1-р баг, Баруун бүс худалдааны төв ","Bayanlkhongor province, Bayankhongor, Western region shopping center ",Даваа-Ням 10:00-18:00 цаг,Mon-Sun 10am-18pm,1800-1888,1,1,1,1,1,1,1,10:00:00,18:00:00
+"Амар супермаркет, Экспресс АТМ ","Amar shopping center, Express ATM ",atm,"Баянхонгор аймаг, Баянхонгор сум, 1-р баг, Амар худалдааны төв","Bayanlkhongor province, Bayankhongor, Amar shopping center",Даваа-Ням 09:30-22:30 цаг,Mon-Sun 9:30am-10:30pm,1800-1888,1,1,1,1,1,1,1,09:30:00,22:30:00
+"Хишиг худалдааны төв, Экспресс АТМ ","Khishig shopping center, Express ATM  ",atm,"Ховд аймаг, Жаргалант сум, Алаг толгой баг, Хишиг худалдааны төв","Khovd province, Jargalant, Alag tolgoi, Khishig shopping center",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+"Шинэ улаангом зах, Экспресс АТМ","Shine ulaangom market, Express ATM ",atm,"Увс аймаг, Улаангом сум, 3-р баг, Шинэ улаангом зах ","Uvs province, Ulaangom, Shine ulaangom market ","Мягмар-Ням 09:00-20:00 цаг
+Даваа амрана","Tue-Sun 9am-8pm
+Monday closed",1800-1888,0,1,1,1,1,1,1,09:00:00,20:00:00
+"Улаангом тооцооны төв, Экспресс банк АТМ","Ulaangom branch, Express ATM ",atm,"Увс аймаг, Улаангом сум, 3-р баг, Хас банк Улаангом тооцооны төв ","Uvs province, Ulaangom, Xac bank Ulaangom branch ",Даваа-Ням 09:00-21:00 цаг,Mon-Sun 9am-9pm,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+"Алтай таван богд центр, Экспресс АТМ ","Altai tavan bogd center, Express ATM ",atm,"Баян-Өлгий аймаг, Өлгий сум, Алтай таван богд центр ","Bayan-Ulgii province, Ulgii, Altai tavan bogd center ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Баян-Өлгий салбар, Экспресс АТМ ","Information communication center, Express ATM ",atm,"Баян-Өлгий аймаг, Өлгий сум, 5-р баг, MJS Tower ","Bayan-Ulgii province, Ulgii, MJS Tower ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Хан жаргалант худалдааны төв, Экспресс АТМ","Khan jargalant shopping center, Express ATM  ",atm,"Булган сум, 6-р баг, Удавлын гудамж, Хан жаргалант худалдааны төв ","Bulgan province, Udval street, Khan jargalant shopping center",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"Мөнх-Өвөгдий супермаркет, Экспресс банк ","Munkh-Uvugdii supermarket, Express ATM ",atm,"Завхан аймаг, Тосонцэнгэл сум, Дархан-Уул баг, Мөнх-Өвөгдий супермаркет ","Zavkhan province, Tosontsengel, Munkh-Uvugdii supermarket ",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+"Тод 2 худалдааны төв, Экспресс АТМ","Tod 2 shopping center, Express ATM ",atm,"Сэлэнгэ аймаг, Мандал сум, 7-р баг, Тод 2 худалдааны төв ","Selenge province, Mandal, Tod 2 shopping center ",Даваа-Ням 09:00-21:00 цаг,Mon-Sun 9am-9pm,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+"Налайх салбар, Экспресс банк ","Nalaikh branch, Express bank ",atm,"Налайх дүүрэг, 2-р хороо, Даваажавын гудамж, Хас банк Налайх салбар ","Nalaikh, 2nd khoroo, Davaajav street, Xac bank Nalaikh branch ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Мэдээлэл холбоо сүлжээ, Экспресс АТМ","Information communication center, Express ATM ",atm,"Төв аймаг, Зуунмод сум, 1-р баг, Мэдээлэл холбоо сүлжээ","Tuv province, Zuunmod, Information communication center",Даваа-Ням 09:00-21:00 цаг,Mon-Sun 9am-9pm,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+"Хишиг худалдааны төв, Экспресс АТМ ","Khishig shopping center, Express ATM  ",atm,"Ховд аймаг, Жаргалант сум, Алаг толгой баг, Хишиг худалдааны төв","Khovd province, Jargalant, Alag tolgoi, Khishig shopping center",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+"Багануур салбар, Экспресс АТМ","Baganuur branch, Express ATM ",atm,"Багануур дүүрэг, 1-р хороо, Нацагдоржийн гудамж 7/1, Хас банк Багануур салбар ","1st khoroo, Natsgdorj street 7/1, Baganuur branch Xac bank",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Налайх мини маркет АТМ,Nalaikh mini market АТМ,atm,"Налайх дүүрэг, 4-р хороо, Алтай 1-14, Мини маркет ","Nalaikh, 4th khoroo, Altai 1/14, Mini market ",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+"Тэрэлж, ЗДТГазрын байр ","Terelj, ZDTG",atm,"Налайх дүүрэг, 6-р Тэрэлж ЗДТГ ","Nalaikh, West of Terelj hotel, ZDTG",Даваа-Ням 08:00-24:00 цаг,Mon-Sun 8am-12pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Бор-Өндөр Тооцооны Төв АТМ,Bor-Undur branch АТМ,atm,"Хэнтий аймаг, Бор-Өндөр сум, Хас банк Бор-Өндөх тооцооны төв ","Khentii province, Bor-Undur, Bor-Undur branch Xac bank ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Бор-Өндөр TT, Экспресс АТМ","Bor-Undur branch, Express АТМ",atm,"Хэнтий аймаг, Бор-Өндөр сум, Хас банк Бор-Өндөх тооцооны төв ","Khentii province, Bor-Undur, Bor-Undur branch Xac bank",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Хангарьд спортын ордон ,Khangarid sports place ,atm,"Орхон аймаг, Баян-Өндөр сум, Хангарьд спортын ордон","Orkhon province, Bayan-Undur, Khangarid sports place",Даваа-Ням 08:00-22:00 цаг,Mon-Sun 8am-10pm,1800-1888,1,1,1,1,1,1,1,08:00:00,22:00:00
+Амар худалдааны төв,Amar shopping center ,atm,"Баянхонгор аймаг, Баянхонгор сум, 1-р баг, Амар худалдааны төв ","Bayanlkhongor province, Bayankhongor, Amar shopping center ",Даваа-Ням 09:30-22:30 цаг,Mon-Sun 9:30am-10:30pm,1800-1888,1,1,1,1,1,1,1,08:30:00,18:30:00
+Говьсүмбэр салбар АТМ,Govisumber branch ATM,atm,Говьсүмбэр аймаг Сүмбэр сум 3 баг Миний дэлгүүрийн үүдэнд,"Govisumber province, Sumber, Minii supermarket ",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Дорноговь Cиднэй АТМ,Dornogovi Sydney АТМ,atm,"Дорноговь аймаг, Сайншанд сум, 2-р баг, Дорноговь Сиднэй дэлгүүр ","Dornogovi province, Sainshand, Sydney Dornogovi ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Шүр зах АТМ,Shur market АТМ,atm,"Дорнод аймаг, Хэрлэн сум, 6-р баг, Худалдааны гудамж, Шүр зах","Dornod province, Kherlen, Trade street, Shur market ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Дундговь Цоглог плаза АТМ,Tsoglog plaza АТМ,atm,"Дундговь аймаг, Сайнцагаан сум, 7-р баг, Цоглог плаза ","Dundgovi province, Saintsagaan, Tsoglog plaza",Даваа-Ням 09:00-24:00 цаг,Mon-Sun 9am-12pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:59:00
+Баян бүрд худалдааны төв ,Bayan burd shopping center ,atm,"Завхан аймаг, Улиастай сум, Жинст баг, Баян бүрд худалдааны төв ","Zavkhan province, Uliastai, Jinst, Bayan burd shopping center",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Элгэн баян худалдааны төв ,Elgen bayan market ,atm,"Дорноговь аймаг, Замын Үүд сум,  -р баг, худалдааны төв ","Dornogovi province, Zamiin-Uud,  ",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Мандах Маркет супермаркет АТМ,Mandakh market supermarket АТМ,atm,"Налайх дүүрэг, 1-р хороо, Энгэршанд 1А-8, Мандах Маркет супермаркет ","Nalaikh, 1st khoroo, Mandakh Market supermarket",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Миний дэлгүүр,Minii hypermarket shopping center ,atm,"Архангай аймаг, Эрдэнэбулган сум, 3-р баг, Миний дэлгүүр","Arkhangai province, Erdenebulgam sum, Minii hypermarket shopping center",Даваа-Ням 09:00-23:00 цаг,Mon-Sun 9am-11pm,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+Шинэ орчин төв АТМ,Darkhan shine orchin center АТМ,atm,"Дархан-Уул аймаг, Дархан сум, 8-р баг, Шинэ орчин төв ","Darkhan-Uul province, Darkhan, Shine orchin center ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Гост худалдааны төв АТМ,Gost shopping center АТМ,atm,"Архангай аймаг, Эрдэнэбулган сум, 4-р баг, Гост худалдааны төв ","Arkhangai province, Erdenebulgam sum, Gost shopping center",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Кинг ресторан АТМ,King restaurant АТМ,atm,"Ховд аймаг, Жаргалант сум, Их монгол хотхон, Кинг ресторан","Khovd province, Jargalant, Ikh mongol towm, King restaurant ",Даваа-Ням 09:00-19:00 цаг,Mon-Sun 9am-7pm,1800-1888,1,1,1,1,1,1,1,09:00:00,19:00:00
+Цэлмэг дэлгүүр АТМ,Tselmeg supermarket АТМ,atm,"Увс аймаг, Улаангом сум, 3-р баг, Цэлмэг дэлгүүр ","Uvs province, Ulaangom, Tselmeg supermarket ",Даваа-Ням 09:00-21:00 цаг,Mon-Sun 9am-9pm,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+Анурад хүнсний дэлгүүр  АТМ,Anurad supermarket АТМ,atm,"Баянхонгор аймаг, Баянхонгор сум, Төв захын хойно, Анурад хүнсний дэлгүүр ","Bayanlkhongor province, Bayankhongor, Anurad supermarket ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,14:05:00,14:05:00
+Дөлгөөн супермаркет АТМ,Dulguun supermarket АТМ,atm,"Өмнөговь аймаг, Ханбогд сум, Шар Дов 19-1, Дөлгөөн супермаркет ","Umnugovi province, Khanbogd, Dulguun supermarket ",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Зам зуур хүнсний дэлгүүр АТМ,Zam zuur supermarket  АТМ,atm,"Багануур дүүрэг, 1-р хороо, Зам зуур хүнсний дэлгүүр ","1st khoroo, Zam zuur supermarket ",Даваа-Ням 08:00-24:00 цаг,Mon-Sun 8am-12pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:59:00
+Од худалдааны төв  АТМ,Od shopping center АТМ,atm,"Орхон аймаг, Баян-Өндөр сум, Уртбулаг баг, 5-р микр, Од худалдааны төв ","Orkhon province, Bayan-Undur , Urtbulag, 5th mikr, Od shopping center",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+Цах худалдааны төв АТМ,Tsakh shopping center АТМ,atm,"Орхон аймаг, Баян-Өндар сум, Уурхайчин баг, Цах худалдааны төв","Orkhon province, Bayan-Undur, Uurkhaichin, Tsakh shopping center ",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+Дорнод Нарлаг дэлгүүр АТМ,Dornod Narlag delguur АТМ,atm,"Дорнод аймаг, Хэрлэн сум, 6-р баг, ЧИТА-ийн гудамж, Нарлаг дэлгүүр Дорнод ","Dornod province, Kherlen, CHITA street, Narlag delguur Dornod ",Даваа-Ням 9:30-22:00 цаг,Mon-Sun 9:30am-10pm,1800-1888,1,1,1,1,1,1,1,09:30:00,22:00:00
+Дархан Магнолиа АТМ,Darkhan Magnolia АТМ,atm,"Дархан-Уул аймаг, Дархан сум, 8-р баг, Дархан магнолиа ","Darkhan-Uul province, Darkhan, Darkhan Magnolia",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"UBM төв, Экспресс АТМ","UBM center, Express ATM ",atm,"Хөвсгөл аймаг, Мөрөг сум, 4-р баг, UBM худалдааны төв","Khuvsgul province, Murun, UBM shopping center
+",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Харгант бөөний төв АТМ,Khargant market АТМ,atm,"Завхан аймаг, Тосонцэнгэл сум, 1- баг, Худалдааны гудам, Харгант Бөөний төв","Zavkhan province, Tosontsengel, Trade street, Khargant market",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Сэлэнгэ салбар АТМ,Selenge branch АТМ,atm,"Сэлэнгэ аймаг, Сүхбаатар сум, 6-р баг, Хас банк Сэлэнгэ салбар ","Selenge province, Sukhbaatar, Xac bank Selenge branch ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Хангай бүс худалдааны  төв АТМ,Khangai region shopping center АТМ,atm,"Орхон аймаг, Баян-Өндар сум, Уурхайчин баг, Хангай бүсийн худалдааны төв ","Orkhon province, Bayan-Undur, Uurkhaichin, Khangai region shopping center ",Даваа-Ням 10:00-19:00 цаг,Mon-Sun 10am-7pm,1800-1888,1,1,1,1,1,1,1,10:00:00,19:00:00
+Анд төв АТМ,And center  АТМ,atm,"Мөрөн сум, 8-р баг, Анд үйлчилгээнтий төв","Khuvsgul province, Murun, And shopping center ",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Шинэ оргил хүнсний дэлгүүр АТМ,Shine orgil supermarket АТМ,atm,"Төв аймаг, Зуунмод сум, Номт баг, Энхжин хотхон, Шинэ оргил хүнсний дэлгүүр ","Tuv province, Zuunmod, Enkhjin town, Shine orgil supermarket",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+Хангамж худалдааны төв АТМ,Khangamj shopping center АТМ,atm,"Өвөрхангай аймаг, Арвайхээр сум, Төв барааны зах Хангамж худалдааны төв","Uvurkhangai province, Arvaikheer, Central market, Khangamj shopping center ",Даваа-Ням 10:00-20:00 цаг,Mon-Sun 10am-8pm,1800-1888,1,1,1,1,1,1,1,10:00:00,20:00:00
+Буянт рашаан Монос эмийн сан АТМ,"Buyant rashaan, Monos pharmacy АТМ",atm,"Сэлэнгэ аймаг, Сүхбаатар сум, Ган зам 7-р баг, Буянт рашаан эмийн сан ","Selenge province, Sukhbaatar, Gan zam, Buyant rashaan Monos pharmacy",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Дархан нэхий худалдааны төв  АТМ,Darkhan nekhii shopping center АТМ,atm,"Орхон аймаг, Баян-Өндөр сум, Их залуу 3а-9 тоот, Дархан нэхий худалдааны төв ","Orkhon province, Bayan-Undur, Ikh zaluu, Darkhan nekhii shopping center ",Даваа-Ням 10:00-22:00 цаг,Mon-Sun 10am-10pm,1800-1888,1,1,1,1,1,1,1,10:00:00,22:00:00
+Эрдэнэт нэгдсэн эмнэлэг АТМ,Erdenet general hospital АТМ,atm,"Орхон аймаг, Баян-Өндар сум, 1-р хороолол, Нэгдсэн эмнэлэг хүлээн авах байр","Orkhon province, Bayan-Undur, 1st microdistrict, General hospital reception ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Оргил худалдааны төв АТМ,Orgil shopping center АТМ,atm,"Баян-Өлгий аймаг, Өлгий сум, 5-р баг, Оргил худалдааны төв ","Bayan-Ulgii province, Ulgii, Orgil shopping center ",Даваа-Ням 09:00-21:00 цаг,Mon-Sun 9am-9pm,1800-1888,1,1,1,1,1,1,1,09:00:00,21:00:00
+"Сансар супермаркет, Экспресс АТМ","Sodon, Express ATM  ",atm,"6-р хороо, Үйлдвэрчний эвлэлийн гудамж, Содон хороолол, Сансар сүлжээ супермаркет","6th khoroo, Sodon khoroolol, Sansar supermarket",Даваа-Ням 08:00-22:00 цаг,Mon-Sun 8am-10pm,1800-1888,1,1,1,1,1,1,1,08:00:00,22:00:00
+Содон Сансар супермаркет АТМ,Sodon Sansar supermarket ATM,atm,"6-р хороо, Үйлдвэрчний эвлэлийн гудамж, Содон хороолол, Сансар сүлжээ супермаркет","6th khoroo, Sodon khoroolol, Sansar supermarket",Даваа-Ням 08:30-22:00 цаг,Mon-Sun 8:30am-10pm,1800-1888,1,1,1,1,1,1,1,08:30:00,22:00:00
+"Имарт Чингис, Экспресс АТМ-2","E-mart Chinggis, Express ATM-2",atm,"1-р хороо, 12-р хороолол, Токиогийн гудамж-23, Имарт Чингис 1-р давхарт","1st Khoroo, 12th Microdistrict, Tokyo Street, E-mart Chinggis 2nd floor",Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+"Сүү ХХК, М Март Экспресс АТМ",MAX MARKET Express ATM,atm,"19-р хороо, Сүү ХК-ын байр, Макс Маркет","19th khoroo, Suu Co, Ltd-Max market",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+"Өмнөговь салбар, Экспресс АТМ","UMNUGOVI BRANCH, Express ATM",atm,"Өмнөговь аймаг, Даланзадгад сум, Самбуугийн гудамж, Хас банк Өмнөговь салбар ","Umnugovi province, Dalanzadgad, Sambuu street, Xac bank Umnugovi branch",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Өмнөговь Ханбогд салбар, Экспресс АТМ","Umnugovi Khanbogd branch, Express АТМ",atm,Өмнөговь Ханбогд салбар,UMNUGOVI PROVINCE  KHANBOGD BRANCH,Даваа-Ням 09:00-22:00 цаг,Mon-Sun 9am-10pm,1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+"Дорнод салбар, Экспресс АТМ","DORNOD BRANCH, Express АТМ",atm,"Дорнод аймаг, Хэрлэн сум, 6-р баг, Читын гудамж, Хасбанкны байрны үүдэнд","Dornod province, Kherlen, Chit street, Xacbank ",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Чойр Балданзасаг маркет, Экспресс АТМ","CHOIR BALDANZASAG MARKET, Express АТМ",atm,Говьсүмбэр аймаг Сүмбэр сум 1 баг Балданзасаг худалдааны төв,"Govisumber province, Sumber, Baldanzasag shopping center ",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Говь-Алтай салбар АТМ,Govi-Altai branch ATM,atm,"Говь-Алтай аймаг, Есөнбулаг сум, Төв гудамж, Хас банк Говь-Алтай салбар ","Govi-Altai province, Esunbulag, Main street, Xac bank Govi-Altai branch ",24 цаг,24 цаг,,1,1,1,1,1,1,1,01:00:00,23:59:00
+Дорноговь салбар Экспресс АТМ,CRM DORNOGOVI BRANCH АТМ,atm,"Дорноговь аймаг, Сайншанд сум, 2-р баг, Хас банк Дорноговь салбар","Dornogovi province, Sainshand, Xac bank Dornogovi branch",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Цогтцэций салбар, Экспресс АТМ","Tsogttsetsii branch, Express ATM",atm,Өмнөговь аймаг Цогтцэций сум Их ус баг ХасБанк салбар дээрээ,CRM UMNUGOVI TSOGTTSETSII BRANCH АТМ,Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Дундговь Мандал төв АТМ,Mandal center ATM,atm,Дундговь аймаг 7-р баг Худалдааны гудамж  Мандал Худалдааны төв,"Dundgovi province, commercial street, Mandal Market",Даваа-Ням 09:00-23:00 цаг,Mon-Sun 9am-11pm,1800-1888,1,1,1,1,1,1,1,09:00:00,23:00:00
+"Замын үүд, Экспресс банк АТМ","Zamiin-uud, Express bank ATM",atm,Замын-Үүд сум 1-р баг Төв талбай Хасбанк дотор,"Dornogovi province, Zamiin-Uud, Central Square, Xacbank",24 цаг,24/7,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Замын үүд Лоби зарлага,Zamiin-uud Lobby cash,atm,Замын-Үүд сум 1-р баг Төв талбай Хасбанк дотор,"Dornogovi province, Zamiin-Uud, Central Square, Xacbank",24 цаг,24/7,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Өмнөговь Нэгдсэн эмнэлэг,Umnugovi central hospital,atm,Өмнөговь аймаг нэгдсэн эмнэлэг,"Umnugovi province, Umnugovi Hospital",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Хэнтий салбар Экспресс АТМ,Khentii branch Express ATM,atm,Хэнтий аймаг Хэрлэн сум 3-р баг Баатруудын гудамж Хасбанкны байр,"Khentii province, Kherlen, Baataruud street, Xac bank Khentii branch",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Хэнтий Эвт худалдааны төв, Экспресс АТМ","Khentii Evt market, Express ATM",atm,"Хэнтий аймаг Хэрлэн сум 3-р баг Тээвэрчид 1к-18, Зүүн бүсийн худалдааны төвийн А блок","Khentii province, Kherlen, East zone market, A bloc ",Даваа-Ням 09:00-19:00 цаг,Mon-Sun 9am-7pm,1800-1888,1,1,1,1,1,1,1,09:00:00,19:00:00
+"Баруун-Урт Далай булаг, Экспресс АТМ","Baruun-Urt dalai bulag, Express ATM",atm,Сүхбаатар аймаг Баруун-Урт сум 7-р баг Далай булаг,"Sukhbaatar province, Baruun-Urt, Dalai bulag","Даваа-Бямба 09:00-22:00
+Ням 10:00-22:00","Mon-Sat 09:00-22:00
+Sunday 10:00-22:00",1800-1888,1,1,1,1,1,1,1,09:00:00,22:00:00
+Дорноговь салбар өргөтгөл АТМ,DORNOGOVI BRANCH URGUTGUL ATM,atm,Дорноговь өргөтгөл. 4-р баг Эмийн сантай байр,"Dornogovi province, 4th committee, Xacbank-extention",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Тумбааш тооцооны төв,Tumbaash branch,branch,"Баянгол дүүрэг,13-р хороо, Ард Аюушийн өргөн чөлөө,15 дугаар хороо, 3-р хороолол, ""Ахуй үйлчилгээний ордон""-ы байр
+3 үгт хаяг: /// дээдлэх.жүжигчин.огноо ","Ard Ayush avenue, 15th khoroo, 3rd microdistrict, Bayangol district
+what3words: ///crafts.singer.seaweed ","Даваа - Баасан: 9:00-17:00
+Бямба, Ням: Амарна","Monday - Friday: 9:00am-5:00pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,09:00:00,17:00:00
+Баянзүрх салбар,Bayanzurkh branch,branch,"Баянзүрх дүүрэг, Энх тайвны өргөн чөлөө 14-р хороолол,13 дугаар хороо, 92-А байр 201 тоот
+3 үгт хаяг: ///цамц.хатагтай.төрд ","201, building 92A, 13th horoo, Peace avenue, Bayanzurkh district
+What3Words: //unwanted.climate.tasteful ","Даваа - Баасан: 9:00-17:00
+Бямба, Ням: Амарна","Monday - Friday: 9:00am-5:00pm
+Saturday, Sunday: Сlosed",1800-1888,1,1,1,1,1,0,0,09:00:00,17:00:00
+"Дорнод Хэрлэн ТТ, Экспресс АТМ","DORNOD KHERLEN TT, Express АТМ",atm,"Дорнод аймаг, Хэрлэн сум, 6-р баг, Тана худалдааны төв Хасбанкны Хэрлэн тооцооны төвийн үүдэнд","Dornod province, Kherlen, Trade street, Tana market",Даваа-Ням 09:00-19:00 цаг,Mon-Sun 9am-07pm,1800-1888,1,1,1,1,1,1,1,09:00:00,19:00:00
+Яармаг Өлзийт дэлгүүр АТМ,Yarmag Ulziit Supermarket АТМ,atm,"ХУД, 6-р хороо, Яармаг Өлзийт дэлгүүр","Khan-Uul district, 6th khoroo, Yarmag Ulziit Supermarket",Даваа-Ням 08:00-22:00 цаг,Mon-Sun 8am-10pm,1800-1888,1,1,1,1,1,1,1,08:00:00,21:59:00
+"Шинэ сонголт тооцооны төв, Экспресс банк","Shine songolt branch, Express bank ",atm,"Шинэ сонголт худалдааны төв, Шинэ сонголт тооцооны төв","Shine songolt shopping center, Shine songolt branch Xac bank ",Даваа-Ням 09:00-20:00 цаг,Mon-Sun 9am-8pm,1800-1888,1,1,1,1,1,1,1,09:00:00,20:00:00
+"7 буудал Бүрэн, Экспресс АТМ","7th station Buren, Express ATM",atm,"14-р хороо, Чингэлтэй өргөн чөлөө, Долоон буудал, Хүсэл төв","14th khoroo, Chingeltei avenue , 7th station, Khusel center",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+Бөхийн өргөө Баянзүрх хүнсний зах АТМ,Bukhiin urguu Bayanzurkh market ATM,atm,"6-р хороо, Бөхийн өргөө Баянзүрх хүнсний зах","6th khoroo, Bukhiin urguu Bayanzurkh market",Даваа-Ням 24/7 цаг,Mon-Sun 24/7,1800-1888,1,1,1,1,1,1,1,00:00:00,23:00:00
+"Хуучин бөмбөгөр, Экспресс АТМ","Old bumbugur, Express ATM",atm,"2-р хороо, Их тойруу, Хуучин Бөмбөгөр","2nd khoroo, Ikh toiruu, Old bumbugur",Мягмар-Ням 09:00-20:00 цаг,Tue-Sun 9am-8pm,1800-1888,0,1,1,1,1,1,1,09:00:00,20:00:00
+"Бичил хороолол-Мөнгөн тайга, Экспресс АТМ","Mungun taiga center, Express ATM",atm,"12-р хороо, 6-р бичил хороолол, Мөнгөн тайга төв","12th khoroo, 6th micro district, Mungun taiga center",Даваа-Ням 08:00-23:00 цаг,Mon-Sun 8am-11pm,1800-1888,1,1,1,1,1,1,1,08:00:00,23:00:00
+БГД Эрүүл мэндийн 7-р төв АТМ,Bayangol district health center 7 ATM,atm,"Баянгол дүүрэг, 17-р хороо, Жалханз хутагт Дамдинбазарын гудамж","17th khoroo, Jalkhants khutagt Damdinbazar road, Health center 7, Bayangol district",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Сэлэнгэ зах АТМ,Selenge Market ATM,atm,"18-р хороо, Сэлэнгэ хүнс барааны зах","18th khoroo, Selenge Market","Баасан-Лхагва 09:00-20:00 цаг
+Пүрэв гариг амарна","Fri-Wed 9am-8pm
+Thursday closed",1800-1888,1,1,1,0,1,1,1,09:00:00,20:00:00
+Нарлаг дэнж ATM,Narlag Denj Market ATM,atm,"11-р хороо, Самбалхүндэвийн зам, Нарлаг дэнж зах","11st khoroo, Sambalkhundev road, Narlag Denj market",Даваа-Ням 08:00-18:00 цаг,Mon-Sun 8am-6pm,18001888,1,1,1,1,1,1,1,08:00:00,18:00:00
+Баянзүрх 05 салбар Лобби зарлага АТМ,Bayanzurkh 05 branch Lobby ATM,atm,"13-р хороо, Энхтайван өргөн чөлөө, 92а-1 тоот","13rd khoroo, Enkhtaivan Avenue, 92A-1",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Сонгинохайрхан 06 салбар АТМ Лобби зарлага,Songinokhairkhan 06 branch ATM,atm,"12-р хороо, 1-р хороолол, Москвагийн гудамж, Саппоро, Хас банк Сонгинохайрхан салбар","12th khoroo, 1st microdistrict, Songinokhairkhan branch Xac bank",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Тумбааш салбар Лобби АТМ зарлага,Tumbaash branch Lobby ATM,atm,"15-р хороо, 3-р хороолол, Ард аюуш өргөн чөлөө, Дисковери ХХК байр","15th khoroo, 3rd microdistrict, Ard ayush avanue, Discovery LLC building, Xacbank",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Баянгол дүүрэг ЗДТГ,Bayangol duureg ZDTG ATM,atm,Баянгол дүүрэг 2 хороо ЗДТГазрын байр,"2rd khoroo, Bayangol duureg ZDTG",Даваа-Ням 24 цаг,Mon-Sun 24 hour,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Сүхбаатар 08 салбар Лобби АТМ зарлага,Sukhbaatar branch Lobby ATM,atm,"7-р хороо, 11-р хороолол, Эрхүүгийн Гудамж, Хас банк Сүхбаатар салбар ","7th khoroo, 11th microdistrict, Erkhuu road, Sukhbaatar branch Xac bank",Даваа-Ням 24 цаг,Mon-Sun 24 hours,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Баянзүрх 05 салбар Лобби орлого АТМ -1,Bayanzurkh 05 branch Lobby CRM-ATM-1,atm,"13-р хороо, Энхтайван өргөн чөлөө, 92а-1 тоот","13rd khoroo, Enkhtaivan Avenue, 92A-1",Даваа-Ням 24 цаг,Mon-Sun 24 hours,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Баянзүрх 05 салбар Лобби орлого АТМ -2,Bayanzurkh 05 branch Lobby CRM-ATM-2,atm,"13-р хороо, Энхтайван өргөн чөлөө, 92а-1 тоот","13rd khoroo, Enkhtaivan Avenue, 92A-1",Даваа-Ням 24 цаг,Mon-Sun 24 hours,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Сонгинохайрхан 06 салбар Лобби орлого АТМ-2,Songinokhairkhan branch Lobby CRM-ATM-2,atm,"12-р хороо, 1-р хороолол, Москвагийн гудамж, Саппоро, Хас банк Сонгинохайрхан салбар","12th khoroo, 1st microdistrict, Songinokhairkhan branch Xac bank ",Даваа-Ням 24 цаг,Mon-Sun 24 hours,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Сонгинохайрхан 06 салбар Лобби орлого АТМ-2,Songinokhairkhan branch Lobby CRM-ATM-2,atm,"12-р хороо, 1-р хороолол, Москвагийн гудамж, Саппоро, Хас банк Сонгинохайрхан салбар","12th khoroo, 1st microdistrict, Songinokhairkhan branch Xac bank ",Даваа-Ням 24 цаг,Mon-Sun 24 hours,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Яармаг Фүүд Сити орлого АТМ,Yarmag Food city CRM-ATM,atm,"4-р хороо, Яармаг Фүүд сити худалдааны төв","4rd khoroo, Yarmag Food city",Даваа-Ням 9-20 цаг,Mon-Sun 9-20 hours,1800-1888,1,1,1,1,1,1,1,09:00:00,19:59:00
+Сүхбаатар 08 салбар CRM,SUKHBAATAR 08 BRANCH CRM,atm,"7-р хороо, 11-р хороолол, Эрхүүгийн Гудамж, Хас банк Сүхбаатар салбар ","7th khoroo, 11th microdistrict, Erkhuu road, Sukhbaatar branch Xac bank",Даваа-Ням 24 цаг,Mon-Sun 24 hours,18001888,1,1,1,1,1,1,1,00:00:00,23:59:00
+"Баянгол салбар, Экспресс банк CRM-2","Bayangol branch, Express bank CRM-2",atm,"13-р хороо, Ард Аюушийн өргөн чөлөө, Имарт Хороолол салбар, Хас банк Баянгол салбар","13rd khoroo, 4th microdistrict, Ard Ayush avenue, Bayangol branch Xac bank ",Даваа-Ням 24 цаг,Mon-Sun 24 hours,18001888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Налайх Зүүн хүрээ дэлгүүр ATM,Nalaikh Zuun khuree delguur ATM,atm,Налайх Пост,Nalaikh Zuun khuree delguur,Даваа-Ням 08:00-20:00 цаг,Mon-Sun 8am-8pm,18001888,1,1,1,1,1,1,1,08:00:00,20:00:00
+Их-Орд лоби CRM,Ikh ord lobby CRM,atm,"14-р хороо, Намъянжүгийн гудамж, Их Орд худалдааны төв,  Хас банк Ир Орд тооцооны төв","14th Khoroo, Namyanju Street, Ikh Ord Shopping Center, XacBank Ikh Ord Branch",Даваа-Ням 24 цаг,Mon-Sun 24 hours,1800-1888,1,1,1,1,1,1,1,00:00:00,23:59:00
+Улсын клиникийн 1-р эмнэлэг,Central hospital-1,atm,"1-р хороо, Улсын клиникийн 1-р эмнэлэг","1-khoroo, Central hospital-1",06:00-00:00,06:00-00:00,1800-1888,1,1,1,1,1,1,1,06:00:00,23:59:00
+Зөөврийн АТМ,Mobile ATM,atm,Бэлхи зуслан,Belkhi zuslan,24,24,1800-1888,1,1,1,1,1,1,1,00:00:00,23:00:00
+Гандан Моми ,Gandan Momi,atm,БГД Орхон 2-130,BGD Orkhon 2-130,Даваа-Ням,Mon-Sun,,1,1,1,1,1,1,1,09:00:00,23:00:00
+Автомашины зээлийн төв-1,Automobile purchase loan center 1,branch,"32 дугаар хороо, ""МАКОС"" ХХК-ийн ""АВТОКОМ"" худалдаа үйлчилгээний төвийн Б блок 301-304 тоот
+3 үгт хаяг: ///угсаат.арилж.цоохондой","301-304, Block B, Autocom shopping center, 32nd khoroo, Songinokhairkhan district
+///possessors.showered.trustees","Даваа - Ням: 8:30-16:30
+Мягмар: Амарна","Monday - Sunday: 8:30am-4:30pm
+Tuesday: Сlosed",1800-1888,1,0,1,1,1,1,1,08:30:00,16:30:00
+Автомашины зээлийн төв-2,Automobile purchase loan center 2,branch,"17 дугаар хороо, Шархад-55, ""Да Хүрээ"" зах Б блок","17th khoroo, Sharhad-55, ""Da khuree"" market, Block B","Мягмар - Баасан: 8:30-16:30
+Бямба, Ням: 9:00-17:00
+Даваа: амарна.
+3 үгт хаяг: ///очих.нэршсэн.мэдэх","Tuesday - Friday: 8:30am-04:30pm
+Saturday, Sunday: 9:00am-05:00pm
+Monday: Closed.
+What3Words: ///stays.caring.diets",1800-1888,0,1,1,1,1,1,1,08:30:00,16:30:00
